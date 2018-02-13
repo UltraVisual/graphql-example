@@ -46,11 +46,11 @@ const typeDefs = `
 
 const resolvers = {
     Query: { 
-        games: () => games[0].games,
-        gameByBootName: (root, { name }) => games[0].games.find(game => game.name === name),
+        games: () => games.games,
+        gameByBootName: (root, { name }) => games.games.find(game => game.name === name),
         member: () => member,
-        promotions: () => promotions.categories[0].promotions,
-        promosByBucket: (root, { bucket }) => promotions.categories[0].promotions.filter(promo => promo.bucket == bucket)
+        promotions: () => promotions.promotions,
+        promosByBucket: (root, { bucket }) => promotions.promotions.filter(promo => promo.bucket == bucket)
     }
 };
 

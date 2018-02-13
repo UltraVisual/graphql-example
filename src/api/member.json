@@ -1,14 +1,12 @@
 {
-    "memberId": 18079357,
-    "username": "jitentest",
-    "memberFirstName": "Jiten",
-    "balance": "0.16",
+    "memberId": 12345678,
+    "username": "unclebob",
+    "memberFirstName": "unclebob",
+    "balance": "1,000,000",
     "points": "4",
-    "quickDepositEnabled": "11011",
     "memberCountryCode": "GB",
     "memberCurrencyId": "1",
     "emailVerified": "0",
-    "thirdPartyGamingToken": "9c8d555e22df211458dbb792d6b4d65d4860b3b5",
     "termsAndConditionsAccepted": true,
     "documentsRequested": false,
     "phoneNumber": {
@@ -16,6 +14,5 @@
         "number": "987654321",
         "type": "MOBILE"
     },
-    "loginId": "413979031",
-    "sessionIdentity": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzZXNzaW9uLTQxMzk3OTAzMSIsImlzcyI6ImdhbWVzeXMtcHMiLCJleHAiOjE1MjExODYzNzAsImlhdCI6MTUxODUwNzk3MH0.YOVD-EqnlW2kVA_6oF60D3e1_DUgU1Zg3mTdxSIFv9U"
+    "loginId": "12345678"
 }

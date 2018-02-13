@@ -1,418 +1,337 @@
 {
-	"categories": [
+	"promotions": [
 		{
-			"title": " ",
-			"promotions": [
-				{
-					"bucket":"avipup",
-					"title": "VIP Houdini Great Escape",
-					"path": "vip-houdinis-great-escape",
-					"image": "/api/content/promotions/vip/vip-houdini-great-escape/banner/scale-s%s/vip-houdinis-great-escape-tile-r%s-w%s.png",
-					"url": "/api/content/promotions/vip/vip-houdini-great-escape/index.html",
-					"startDate": "01/12/2015"
-				},
-				{	"bucket":"uphoudini",
-					"title": "Houdini Great Escape HV",
-					"path": "houdinis-great-escape",
-					"image": "/api/content/promotions/houdini-great-escape-hv/banner/scale-s%s/houdinis-great-escape-tile-r%s-w%s.png",
-					"url": "/api/content/promotions/houdini-great-escape-hv/index.html",
-					"startDate": "01/12/2015",
-					"expiryDate": "01/01/2099"
-				},
-				{
-					"bucket": "vip-casino",
-					"title": "VIP Scratchcard Special B",
-					"path": "oct17-vip-scratchcard-special-b",
-					"image": "/api/content/promotions/vip/oct17-vip-scratchcard-special-b/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/oct17-vip-scratchcard-special-b/index.html",
-					"startDate": "13/10/2017",
-					"expiryDate": "16/10/2017"
-				},		
-				{
-					"bucket": "hvgold",
-					"title": "Sand Sational Offers B",
-					"path": "oct17-sand-sational-offers-b",
-					"image": "/api/content/promotions/vip/oct17-sand-sational-offers-b/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/oct17-sand-sational-offers-b/index.html",
-					"startDate": "13/10/2017",
-					"expiryDate": "16/10/2017"
-				},		
-					{
-					"bucket": "vip",
-					"title": "Vip Front Page News",
-					"path": "feb18-vip-front-page-news",
-					"image": "/api/content/promotions/vip/feb18-vip-front-page-news/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/feb18-vip-front-page-news/index.html",
-					"startDate": "02/02/2018",
-					"expiryDate": "05/02/2018"
-					},
-					{
-					"bucket": "vip",
-					"title": "Vip White Rabbit",
-					"path": "feb18-vip-white-rabbit",
-					"image": "/api/content/promotions/vip/feb18-vip-white-rabbit/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/feb18-vip-white-rabbit/index.html",
-					"startDate": "07/02/2018",
-					"expiryDate": "08/02/2018"
-					},
-					{
-					"bucket": "vip",
-					"title": "Vip Slot Surprise",
-					"path": "feb18-vip-slot-surprise",
-					"image": "/api/content/promotions/vip/feb18-vip-slot-surprise/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/feb18-vip-slot-surprise/index.html",
-					"startDate": "09/02/2018",
-					"expiryDate": "12/02/2018"
-					},
-					{
-					"bucket": "vip",
-					"title": "Vip Scratchcard Special",
-					"path": "feb18-vip-scratchcard",
-					"image": "/api/content/promotions/vip/feb18-vip-scratchcard/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/feb18-vip-scratchcard/index.html",
-					"startDate": "22/02/2018",
-					"expiryDate": "26/02/2018"
-					},
-					{
-					"bucket": "vip",
-					"title": "Vip Scratchcard Special",
-					"path": "jan18-vip-scratchcard-special",
-					"image": "/api/content/promotions/vip/jan18-vip-scratchcard-special/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/jan18-vip-scratchcard-special/index.html",
-					"startDate": "25/01/2018",
-					"expiryDate": "29/01/2018"
-					},
-					{
-					"bucket": "hvmember",
-					"title": "Bubble Burst",
-					"path": "jan18-bubble-burst",
-					"image": "/api/content/promotions/vip/jan18-bubble-burst/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/jan18-bubble-burst/index.html",
-					"startDate": "26/01/2018",
-					"expiryDate": "29/01/2018"
-					},
-					{
-					"bucket": "hvmember",
-					"title": "Alice's Cash Chest",
-					"path": "feb18-alices-cash-chest",
-					"image": "/api/content/promotions/vip/feb18-alices-cash-chest/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/feb18-alices-cash-chest/index.html",
-					"startDate": "23/02/2018",
-					"expiryDate": "26/02/2018"
-					},
-					{
-					"bucket": "hvmember",
-					"title": "Deck of Surprises",
-					"path": "feb18-deck-of-surprises",
-					"image": "/api/content/promotions/vip/feb18-deck-of-surprises/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/feb18-deck-of-surprises/index.html",
-					"startDate": "09/02/2018",
-					"expiryDate": "12/02/2018"
-					},
-					{
-					"bucket": "hvmember",
-					"title": "Bolts Bonanza Bank",
-					"path": "feb18-bolts-box-bonanza-bank",
-					"image": "/api/content/promotions/vip/feb18-bolts-box-bonanza-bank/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/feb18-bolts-box-bonanza-bank/index.html",
-					"startDate": "02/02/2018",
-					"expiryDate": "05/02/2018"
-					},
-					{
-					"bucket": "hvmember",
-					"title": "Jungle Days",
-					"path": "feb18-jungle-days",
-					"image": "/api/content/promotions/vip/feb18-jungle-days/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/vip/feb18-jungle-days/index.html",
-					"startDate": "16/02/2018",
-					"expiryDate": "19/02/2018"
-					},	
-					{
-					"title": "Appy And You Know It",
-					"path": "jan18-appy-and-you-know-it",
-					"image": "/api/content/promotions/jan18-appy-and-you-know-it/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/jan18-appy-and-you-know-it/index.html",
-					"startDate": "26/01/2018",
-					"expiryDate": "01/02/2018"
-					},
-				{
-					"title": "Reel Reveal",
-					"path": "feb18-reel-reveal",
-					"image": "/api/content/promotions/feb18-reel-reveal/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-reel-reveal/index.html",
-					"startDate": "01/02/2018",
-					"expiryDate": "05/02/2018"
-				},		
-				{
-					"title": "Kit Out Your Kitchen",
-					"path": "feb18-kit-out-your-kitchen",
-					"image": "/api/content/promotions/feb18-kit-out-your-kitchen/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-kit-out-your-kitchen/index.html",
-					"startDate": "26/02/2018",
-					"expiryDate": "04/03/2018"
-				},		
-					{
-					"title": "Free Bingo Room",
-					"path": "legacy-free-bingo",
-					"image": "/api/content/promotions/legacy-free-bingo/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/legacy-free-bingo/index.html",
-					"startDate": "26/12/2017",
-					"expiryDate": "19/04/2018"
-					},
-				{
-					"title": "Royal Rumble",
-					"path": "feb18-royal-rumble",
-					"image": "/api/content/promotions/feb18-royal-rumble/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-royal-rumble/index.html",
-					"startDate": "01/02/2018",
-					"expiryDate": "01/03/2018"
-				},	
-					{
-					"title": "Lifes A Beach",
-					"path": "jan18-lifes-a-beach",
-					"image": "/api/content/promotions/jan18-lifes-a-beach/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/jan18-lifes-a-beach/index.html",
-					"startDate": "25/01/2018",
-					"expiryDate": "01/02/2018"
-					},
-					{
-					"title": "Just In Case",
-					"path": "jan18-just-in-case",
-					"image": "/api/content/promotions/jan18-just-in-case/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/jan18-just-in-case/index.html",
-					"startDate": "25/01/2018",
-					"expiryDate": "01/02/2018"
-					},
-					{
-					"title": "Winstons Daily Puzzler",
-					"path": "feb18-winstons-daily-puzzler",
-					"image": "/api/content/promotions/feb18-winstons-daily-puzzler/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-winstons-daily-puzzler/index.html",
-					"startDate": "19/02/2018",
-					"expiryDate": "24/02/2018"
-					},
-					{
-					"title": "WTG",
-					"path": "jan18-wtg-1tg",
-					"image": "/api/content/promotions/jan18-wtg-1tg/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/jan18-wtg-1tg/index.html",
-					"startDate": "11/01/2018",
-					"expiryDate": "01/03/2018"
-					},
-					{
-					"title": "Royal Spoils",
-					"path": "dec17-royal-spoils",
-					"image": "/api/content/promotions/dec17-royal-spoils/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/dec17-royal-spoils/index.html",
-					"startDate": "26/12/2017",
-					"expiryDate": "01/02/2018"
-					},
-				{
-					"title": "Scratch Bonanza",
-					"path": "feb18-scratch-bonanza",
-					"image": "/api/content/promotions/feb18-scratch-bonanza/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-scratch-bonanza/index.html",
-					"startDate": "20/02/2018",
-					"expiryDate": "01/03/2018",
-					"partners": ["chatmagbingo", "womansownbingo", "womanbingo", "pickmeupbingo"]
-				},	
-				{
-					"title": "Cake or Fake",
-					"path": "feb18-cake-or-fake",
-					"image": "/api/content/promotions/feb18-cake-or-fake/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-cake-or-fake/index.html",
-					"startDate": "26/02/2018",
-					"expiryDate": "03/03/2018"
-				},	
-				{
-					"title": "Play Appy",
-					"path": "feb18-play-appy",
-					"image": "/api/content/promotions/feb18-play-appy/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-play-appy/index.html",
-					"startDate": "21/02/2018",
-					"expiryDate": "27/02/2018"
-				},	
-				{
-					"title": "Out with a bang",
-					"path": "feb18-out-with-a-bang",
-					"image": "/api/content/promotions/feb18-out-with-a-bang/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-out-with-a-bang/index.html",
-					"startDate": "14/02/2018",
-					"expiryDate": "20/02/2018"
-				},	
-				{
-					"title": "Sweet Surprise",
-					"path": "feb18-sweet-surprise",
-					"image": "/api/content/promotions/feb18-sweet-surprise/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-sweet-surprise/index.html",
-					"startDate": "13/02/2018",
-					"expiryDate": "17/02/2018"
-				},			
-				{
-					"title": "Love at first Sight",
-					"path": "feb18-love-at-first-sight",
-					"image": "/api/content/promotions/feb18-love-at-first-sight/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-love-at-first-sight/index.html",
-					"startDate": "11/02/2018",
-					"expiryDate": "18/02/2018"
-				},
-				{
-					"title": "Coming Soon",
-					"path": "feb18-coming-soon",
-					"image": "/api/content/promotions/feb18-coming-soon/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-coming-soon/index.html",
-					"startDate": "09/02/2018",
-					"expiryDate": "14/02/2018"
-				},
-				{
-					"title": "Who's you",
-					"path": "feb18-whos-you",
-					"image": "/api/content/promotions/feb18-whos-you/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-whos-you/index.html",
-					"startDate": "06/02/2018",
-					"expiryDate": "13/02/2018"
-				},
-				{
-					"title": "You vs You",
-					"path": "feb18-you-vs-you",
-					"image": "/api/content/promotions/feb18-you-vs-you/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-you-vs-you/index.html",
-					"startDate": "06/02/2018",
-					"expiryDate": "13/02/2018"
-				},
-				{
-					"title": "Wheel of Bingo",
-					"path": "feb18-wheel-of-bingo",
-					"image": "/api/content/promotions/feb18-wheel-of-bingo/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/feb18-wheel-of-bingo/index.html",
-					"startDate": "05/02/2018",
-					"expiryDate": "10/02/2018"
-				},
-				{
-					"title": "A message for you",
-					"path": "oct17-a-message-for-you",
-					"image": "/api/content/promotions/oct17-a-message-for-you/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/oct17-a-message-for-you/index.html",
-					"startDate": "06/10/2016",
-					"expiryDate": "18/12/2016"
-				},	
-				{
-					"title": "Playoff Palace",
-					"path": "dec17-playoff-palace",
-					"image": "/api/content/promotions/dec17-playoff-palace/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/dec17-playoff-palace/index.html",
-					"startDate": "11/12/2016",
-					"expiryDate": "01/01/2016"
-				},	
-				{
-					"title": "Staying in Control",
-					"path": "staying-in-control",
-					"image": "/api/content/promotions/staying-in-control/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/staying-in-control/index.html",
-					"startDate": "19/10/2017",
-					"expiryDate": "31/12/2022"
-				},								
-				{
-					"title": "Legacy Casino King Weekends",
-					"path": "legacy-casino-king-weekends",
-					"image": "/api/content/promotions/legacy-casino-king-weekends/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/legacy-casino-king-weekends/index.html",
-					"startDate": "02/01/2018",
-					"expiryDate": "31/12/2022"
-				},			
-				{
-					"title": "Refer a Friend",
-					"path": "legacy-refer-a-friend",
-					"image": "/api/content/promotions/legacy-refer-a-friend/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/legacy-refer-a-friend/index.html",
-					"startDate": "05/09/2017",
-					"expiryDate": "30/12/2099"
-				},	
-				{
-					"title": "Super Links",
-					"path": "super-links-game",
-					"image": "/api/content/promotions/super-links-game/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/super-links-game/index.html",
-					"startDate": "09/09/2017",
-					"expiryDate": "11/09/2017"
-				}
-			]
+			"bucket":"avipup",
+			"title": "VIP Houdini Great Escape",
+			"path": "vip-houdinis-great-escape",
+			"image": "/api/content/promotions/vip/vip-houdini-great-escape/banner/scale-s%s/vip-houdinis-great-escape-tile-r%s-w%s.png",
+			"url": "/api/content/promotions/vip/vip-houdini-great-escape/index.html",
+			"startDate": "01/12/2015"
+		},
+		{	"bucket":"uphoudini",
+			"title": "Houdini Great Escape HV",
+			"path": "houdinis-great-escape",
+			"image": "/api/content/promotions/houdini-great-escape-hv/banner/scale-s%s/houdinis-great-escape-tile-r%s-w%s.png",
+			"url": "/api/content/promotions/houdini-great-escape-hv/index.html",
+			"startDate": "01/12/2015",
+			"expiryDate": "01/01/2099"
 		},
 		{
-			"title": "Coming Up",
-			"promotions": [
-				{
-					"title": "Winston's Daily Puzzler",
-					"path": "aug17-winstons-daily-puzzler",
-					"image": "/api/content/promotions/aug17-winstons-daily-puzzler/images/banner-coming-soon/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/aug17-winstons-daily-puzzler/index.html",
-					"startDate": "08/08/2017",
-					"expiryDate": "21/08/2017"
-				},						
-				{
-					"title": "Cashback King Weekends",
-					"path": "legacy-casino-king-weekends",
-					"image": "/api/content/promotions/legacy-casino-king-weekends/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/legacy-casino-king-weekends/index.html",
-					"startDate": "30/08/2017",
-					"expiryDate": "04/09/2017"
-				}
-			]
+			"bucket": "vip-casino",
+			"title": "VIP Scratchcard Special B",
+			"path": "oct17-vip-scratchcard-special-b",
+			"image": "/api/content/promotions/vip/oct17-vip-scratchcard-special-b/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/oct17-vip-scratchcard-special-b/index.html",
+			"startDate": "13/10/2017",
+			"expiryDate": "16/10/2017"
+		},		
+		{
+			"bucket": "hvgold",
+			"title": "Sand Sational Offers B",
+			"path": "oct17-sand-sational-offers-b",
+			"image": "/api/content/promotions/vip/oct17-sand-sational-offers-b/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/oct17-sand-sational-offers-b/index.html",
+			"startDate": "13/10/2017",
+			"expiryDate": "16/10/2017"
+		},		
+			{
+			"bucket": "vip",
+			"title": "Vip Front Page News",
+			"path": "feb18-vip-front-page-news",
+			"image": "/api/content/promotions/vip/feb18-vip-front-page-news/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/feb18-vip-front-page-news/index.html",
+			"startDate": "02/02/2018",
+			"expiryDate": "05/02/2018"
+			},
+			{
+			"bucket": "vip",
+			"title": "Vip White Rabbit",
+			"path": "feb18-vip-white-rabbit",
+			"image": "/api/content/promotions/vip/feb18-vip-white-rabbit/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/feb18-vip-white-rabbit/index.html",
+			"startDate": "07/02/2018",
+			"expiryDate": "08/02/2018"
+			},
+			{
+			"bucket": "vip",
+			"title": "Vip Slot Surprise",
+			"path": "feb18-vip-slot-surprise",
+			"image": "/api/content/promotions/vip/feb18-vip-slot-surprise/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/feb18-vip-slot-surprise/index.html",
+			"startDate": "09/02/2018",
+			"expiryDate": "12/02/2018"
+			},
+			{
+			"bucket": "vip",
+			"title": "Vip Scratchcard Special",
+			"path": "feb18-vip-scratchcard",
+			"image": "/api/content/promotions/vip/feb18-vip-scratchcard/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/feb18-vip-scratchcard/index.html",
+			"startDate": "22/02/2018",
+			"expiryDate": "26/02/2018"
+			},
+			{
+			"bucket": "vip",
+			"title": "Vip Scratchcard Special",
+			"path": "jan18-vip-scratchcard-special",
+			"image": "/api/content/promotions/vip/jan18-vip-scratchcard-special/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/jan18-vip-scratchcard-special/index.html",
+			"startDate": "25/01/2018",
+			"expiryDate": "29/01/2018"
+			},
+			{
+			"bucket": "hvmember",
+			"title": "Bubble Burst",
+			"path": "jan18-bubble-burst",
+			"image": "/api/content/promotions/vip/jan18-bubble-burst/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/jan18-bubble-burst/index.html",
+			"startDate": "26/01/2018",
+			"expiryDate": "29/01/2018"
+			},
+			{
+			"bucket": "hvmember",
+			"title": "Alice's Cash Chest",
+			"path": "feb18-alices-cash-chest",
+			"image": "/api/content/promotions/vip/feb18-alices-cash-chest/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/feb18-alices-cash-chest/index.html",
+			"startDate": "23/02/2018",
+			"expiryDate": "26/02/2018"
+			},
+			{
+			"bucket": "hvmember",
+			"title": "Deck of Surprises",
+			"path": "feb18-deck-of-surprises",
+			"image": "/api/content/promotions/vip/feb18-deck-of-surprises/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/feb18-deck-of-surprises/index.html",
+			"startDate": "09/02/2018",
+			"expiryDate": "12/02/2018"
+			},
+			{
+			"bucket": "hvmember",
+			"title": "Bolts Bonanza Bank",
+			"path": "feb18-bolts-box-bonanza-bank",
+			"image": "/api/content/promotions/vip/feb18-bolts-box-bonanza-bank/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/feb18-bolts-box-bonanza-bank/index.html",
+			"startDate": "02/02/2018",
+			"expiryDate": "05/02/2018"
+			},
+			{
+			"bucket": "hvmember",
+			"title": "Jungle Days",
+			"path": "feb18-jungle-days",
+			"image": "/api/content/promotions/vip/feb18-jungle-days/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/vip/feb18-jungle-days/index.html",
+			"startDate": "16/02/2018",
+			"expiryDate": "19/02/2018"
+			},	
+			{
+			"title": "Appy And You Know It",
+			"path": "jan18-appy-and-you-know-it",
+			"image": "/api/content/promotions/jan18-appy-and-you-know-it/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/jan18-appy-and-you-know-it/index.html",
+			"startDate": "26/01/2018",
+			"expiryDate": "01/02/2018"
+			},
+		{
+			"title": "Reel Reveal",
+			"path": "feb18-reel-reveal",
+			"image": "/api/content/promotions/feb18-reel-reveal/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-reel-reveal/index.html",
+			"startDate": "01/02/2018",
+			"expiryDate": "05/02/2018"
+		},		
+		{
+			"title": "Kit Out Your Kitchen",
+			"path": "feb18-kit-out-your-kitchen",
+			"image": "/api/content/promotions/feb18-kit-out-your-kitchen/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-kit-out-your-kitchen/index.html",
+			"startDate": "26/02/2018",
+			"expiryDate": "04/03/2018"
+		},		
+			{
+			"title": "Free Bingo Room",
+			"path": "legacy-free-bingo",
+			"image": "/api/content/promotions/legacy-free-bingo/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/legacy-free-bingo/index.html",
+			"startDate": "26/12/2017",
+			"expiryDate": "19/04/2018"
+			},
+		{
+			"title": "Royal Rumble",
+			"path": "feb18-royal-rumble",
+			"image": "/api/content/promotions/feb18-royal-rumble/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-royal-rumble/index.html",
+			"startDate": "01/02/2018",
+			"expiryDate": "01/03/2018"
+		},	
+			{
+			"title": "Lifes A Beach",
+			"path": "jan18-lifes-a-beach",
+			"image": "/api/content/promotions/jan18-lifes-a-beach/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/jan18-lifes-a-beach/index.html",
+			"startDate": "25/01/2018",
+			"expiryDate": "01/02/2018"
+			},
+			{
+			"title": "Just In Case",
+			"path": "jan18-just-in-case",
+			"image": "/api/content/promotions/jan18-just-in-case/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/jan18-just-in-case/index.html",
+			"startDate": "25/01/2018",
+			"expiryDate": "01/02/2018"
+			},
+			{
+			"title": "Winstons Daily Puzzler",
+			"path": "feb18-winstons-daily-puzzler",
+			"image": "/api/content/promotions/feb18-winstons-daily-puzzler/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-winstons-daily-puzzler/index.html",
+			"startDate": "19/02/2018",
+			"expiryDate": "24/02/2018"
+			},
+			{
+			"title": "WTG",
+			"path": "jan18-wtg-1tg",
+			"image": "/api/content/promotions/jan18-wtg-1tg/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/jan18-wtg-1tg/index.html",
+			"startDate": "11/01/2018",
+			"expiryDate": "01/03/2018"
+			},
+			{
+			"title": "Royal Spoils",
+			"path": "dec17-royal-spoils",
+			"image": "/api/content/promotions/dec17-royal-spoils/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/dec17-royal-spoils/index.html",
+			"startDate": "26/12/2017",
+			"expiryDate": "01/02/2018"
+			},
+		{
+			"title": "Scratch Bonanza",
+			"path": "feb18-scratch-bonanza",
+			"image": "/api/content/promotions/feb18-scratch-bonanza/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-scratch-bonanza/index.html",
+			"startDate": "20/02/2018",
+			"expiryDate": "01/03/2018",
+			"partners": ["chatmagbingo", "womansownbingo", "womanbingo", "pickmeupbingo"]
+		},	
+		{
+			"title": "Cake or Fake",
+			"path": "feb18-cake-or-fake",
+			"image": "/api/content/promotions/feb18-cake-or-fake/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-cake-or-fake/index.html",
+			"startDate": "26/02/2018",
+			"expiryDate": "03/03/2018"
+		},	
+		{
+			"title": "Play Appy",
+			"path": "feb18-play-appy",
+			"image": "/api/content/promotions/feb18-play-appy/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-play-appy/index.html",
+			"startDate": "21/02/2018",
+			"expiryDate": "27/02/2018"
+		},	
+		{
+			"title": "Out with a bang",
+			"path": "feb18-out-with-a-bang",
+			"image": "/api/content/promotions/feb18-out-with-a-bang/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-out-with-a-bang/index.html",
+			"startDate": "14/02/2018",
+			"expiryDate": "20/02/2018"
+		},	
+		{
+			"title": "Sweet Surprise",
+			"path": "feb18-sweet-surprise",
+			"image": "/api/content/promotions/feb18-sweet-surprise/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-sweet-surprise/index.html",
+			"startDate": "13/02/2018",
+			"expiryDate": "17/02/2018"
+		},			
+		{
+			"title": "Love at first Sight",
+			"path": "feb18-love-at-first-sight",
+			"image": "/api/content/promotions/feb18-love-at-first-sight/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-love-at-first-sight/index.html",
+			"startDate": "11/02/2018",
+			"expiryDate": "18/02/2018"
 		},
 		{
-			"promotions": [
-				{
-					"title": "Error 404 - Page not found",
-					"path": "error-404",
-					"image": "",
-					"url": "/api/content/promotions/error-404/index.html"
-				},
-				{
-					"title": "Server communication error",
-					"path": "error",
-					"image": "",
-					"url": "/api/content/promotions/error/index.html"
-				},
-				{
-					"title": "Page expired",
-					"path": "expired",
-					"image": "",
-					"url": "/api/content/promotions/expired/index.html"
-				},			
-				{
-					"title": "Winners Landing Page",
-					"path": "winners-acceptance-page",
-					"image": "/api/content/promotions/dec17-advent-calendar-winners/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/dec17-advent-calendar-winners/index.html"
-				},	
-				{
-					"title": "RC Election",
-					"path": "jul17-president-election",
-					"image": "/api/content/promotions/jul17-president-election/images/banner/scale-s%s/banner-r%s-w%s.png",
-					"url": "/api/content/promotions/jul17-president-election/index.html"
-				},	
-				{
-					"title": "Name and Fame Winners page",
-					"path": "name-and-fame-winners",
-					"image": "/api/content/promotions/name-and-fame-winners/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/name-and-fame-winners/index.html",
-					"startDate": "01/01/2017",
-					"expiryDate": "02/01/2017"
-				},	
-				{
-					"title": "Coming Soon",
-					"path": "oct17-coming-soon",
-					"image": "/api/content/promotions/oct17-coming-soon/images/banner/scale-s%s/banner-r%s-w%s.jpg",
-					"url": "/api/content/promotions/oct17-coming-soon/index.html"
-				},	
-				{
-					"title": "Not eligible",
-					"path": "ineligible",
-					"image": "",
-					"url": "/api/content/promotions/ineligible/index.html"
-				}
-			],
-			"type": "errors"
+			"title": "Coming Soon",
+			"path": "feb18-coming-soon",
+			"image": "/api/content/promotions/feb18-coming-soon/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-coming-soon/index.html",
+			"startDate": "09/02/2018",
+			"expiryDate": "14/02/2018"
+		},
+		{
+			"title": "Who's you",
+			"path": "feb18-whos-you",
+			"image": "/api/content/promotions/feb18-whos-you/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-whos-you/index.html",
+			"startDate": "06/02/2018",
+			"expiryDate": "13/02/2018"
+		},
+		{
+			"title": "You vs You",
+			"path": "feb18-you-vs-you",
+			"image": "/api/content/promotions/feb18-you-vs-you/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-you-vs-you/index.html",
+			"startDate": "06/02/2018",
+			"expiryDate": "13/02/2018"
+		},
+		{
+			"title": "Wheel of Bingo",
+			"path": "feb18-wheel-of-bingo",
+			"image": "/api/content/promotions/feb18-wheel-of-bingo/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/feb18-wheel-of-bingo/index.html",
+			"startDate": "05/02/2018",
+			"expiryDate": "10/02/2018"
+		},
+		{
+			"title": "A message for you",
+			"path": "oct17-a-message-for-you",
+			"image": "/api/content/promotions/oct17-a-message-for-you/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/oct17-a-message-for-you/index.html",
+			"startDate": "06/10/2016",
+			"expiryDate": "18/12/2016"
+		},	
+		{
+			"title": "Playoff Palace",
+			"path": "dec17-playoff-palace",
+			"image": "/api/content/promotions/dec17-playoff-palace/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/dec17-playoff-palace/index.html",
+			"startDate": "11/12/2016",
+			"expiryDate": "01/01/2016"
+		},	
+		{
+			"title": "Staying in Control",
+			"path": "staying-in-control",
+			"image": "/api/content/promotions/staying-in-control/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/staying-in-control/index.html",
+			"startDate": "19/10/2017",
+			"expiryDate": "31/12/2022"
+		},								
+		{
+			"title": "Legacy Casino King Weekends",
+			"path": "legacy-casino-king-weekends",
+			"image": "/api/content/promotions/legacy-casino-king-weekends/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/legacy-casino-king-weekends/index.html",
+			"startDate": "02/01/2018",
+			"expiryDate": "31/12/2022"
+		},			
+		{
+			"title": "Refer a Friend",
+			"path": "legacy-refer-a-friend",
+			"image": "/api/content/promotions/legacy-refer-a-friend/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/legacy-refer-a-friend/index.html",
+			"startDate": "05/09/2017",
+			"expiryDate": "30/12/2099"
+		},	
+		{
+			"title": "Super Links",
+			"path": "super-links-game",
+			"image": "/api/content/promotions/super-links-game/images/banner/scale-s%s/banner-r%s-w%s.jpg",
+			"url": "/api/content/promotions/super-links-game/index.html",
+			"startDate": "09/09/2017",
+			"expiryDate": "11/09/2017"
 		}
 	]
 }
