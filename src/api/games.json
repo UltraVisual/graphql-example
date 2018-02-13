@@ -1,0 +1,1796 @@
+[
+    {
+      "name": "logged-in-top-slots",
+      "games":
+      [
+        {
+          "name": "slot-double-bubble-progressive",
+          "title": "Double Bubble Jackpot",
+          "gameSkin": "DoubleBubbleProgressive",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/play/slot-double-bubble-progressive",
+          "realUrl": "/service/game/play/slot-double-bubble-progressive",
+          "representativeColor": "#86c2ab",
+          "progressiveBackgroundColor": "#2ea977",
+          "imgUrlPattern": "/api/content/gametiles/double-bubble-jackpot/scale-s%s/double-bubble-jackpot-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-island-jackpot",
+          "title": "Tiki Island Jackpot",
+          "gameSkin": "tikiislandprogressive",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-tiki-island-jackpot",
+          "realUrl": "/service/game/play/slot-tiki-island-jackpot",
+          "representativeColor": "#0084F5",
+          "progressiveBackgroundColor": "#0065ab",        
+          "imgUrlPattern": "/api/content/gametiles/tiki-island-jackpot-logged-out/scale-s%s/tiki-island-jackpot-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-paper-wins",
+          "title": "Paper Wins",
+          "gameSkin": "paperwins",
+          "demoUrl": "/service/game/demo/slot-paper-wins",
+          "realUrl": "/service/game/play/slot-paper-wins",
+          "representativeColor": "#0d0c46",
+          "imgUrlPattern": "/api/content/gametiles/paper-wins/scale-s%s/paper-wins-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-totems",
+          "title": "Tiki Totems",
+          "gameSkin": "tikitotems",
+          "demoUrl": "/service/game/demo/slot-tiki-totems",
+          "realUrl": "/service/game/play/slot-tiki-totems",
+          "representativeColor": "#17acff",
+          "imgUrlPattern": "/api/content/gametiles/tiki-totems/scale-s%s/tiki-totems-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-double-bubble",
+          "title": "Double Bubble",
+          "gameSkin": "doublebubblestateful",
+          "demoUrl": "/service/game/demo/slot-double-bubble",
+          "realUrl": "/service/game/play/slot-double-bubble",
+          "representativeColor": "#86c2ab",
+          "imgUrlPattern": "/api/content/gametiles/double-bubble/scale-s%s/double-bubble-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-secrets-of-the-phoenix",
+          "title": "Secrets of the Phoenix",
+          "gameSkin": "machupicchu",
+          "demoUrl": "/service/game/demo/slot-secrets-of-the-phoenix",
+          "realUrl": "/service/game/play/slot-secrets-of-the-phoenix",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/secrets-of-the-phoenix/scale-s%s/secrets-of-the-phoenix-tile-r%s-w%s.png"
+        },
+        {
+          "name": "slot-wonderland",
+          "title": "Wonderland",
+          "gameSkin": "progressivealice",
+          "demoUrl": "/service/game/demo/slot-wonderland",
+          "realUrl": "/service/game/play/slot-wonderland",
+          "representativeColor": "#000041",
+          "progressiveBackgroundColor": "#21a5d9",
+          "imgUrlPattern": "/api/content/gametiles/wonderland-jackpot/scale-s%s/wonderland-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "rainbow-riches-desktop",
+          "title": "Rainbow Riches",
+          "gameSkin": "wms_rainbowriches",
+          "demoUrl": "/service/game/demo/rainbow-riches-desktop",
+          "realUrl": "/service/game/play/rainbow-riches-desktop",
+          "representativeColor": "#000042",
+          "imgUrlPattern": "/api/content/gametiles/rainbow-riches/scale-s%s/rainbow-riches-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-jins-bouncing-wilds",
+          "title": "Jin's Bouncing Wilds",
+          "gameSkin": "jinsbouncingwilds",
+          "demoUrl": "/service/game/demo/play-jins-bouncing-wilds",
+          "realUrl": "/service/game/play/play-jins-bouncing-wilds",
+          "representativeColor": "#26352e",
+          "imgUrlPattern": "/api/content/gametiles/jins-bouncing-wilds-logged-out/scale-s%s/jins-bouncing-wilds-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-bubbling-falls",
+          "title": "Bubbling Falls",
+          "gameSkin": "bubblingfalls",
+          "demoUrl": "/service/game/demo/slot-bubbling-falls",
+          "realUrl": "/service/game/play/slot-bubbling-falls",
+          "representativeColor": "#294F61",
+          "imgUrlPattern": "/api/content/gametiles/bubbling-falls/scale-s%s/B-Falls.gif"
+        },
+        {
+          "name": "play-agatha-christie-orient",
+          "title": "Agatha Christie: Murder on the Orient Express",
+          "gameSkin": "play-agatha-christie-orient",
+          "demoUrl": "/service/game/demo/play-agatha-christie-orient",
+          "realUrl": "/service/game/play/play-agatha-christie-orient",
+          "representativeColor": "#081606",
+          "imgUrlPattern": "/api/content/gametiles/agatha-christie-motoe/scale-s%s/agatha-christie-motoe-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-valley-of-the-kings",
+          "title": "Valley of the Kings",
+          "gameSkin": "valleyofthekings",
+          "demoUrl": "/service/game/demo/slot-valley-of-the-kings",
+          "realUrl": "/service/game/play/slot-valley-of-the-kings",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/valley-of-the-kings/scale-s%s/valley-of-the-kings-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_JungleJackpots",
+          "title": "Jungle Jackpot",
+          "gameSkin": "BP_JungleJackpots",
+          "demoUrl": "/service/game/demo/BP_JungleJackpots",
+          "realUrl": "/service/game/play/BP_JungleJackpots",
+          "representativeColor": "#22371D",
+          "imgUrlPattern": "/api/content/gametiles/jungle-jackpots/scale-s%s/jungle-jackpots-tile-r%s-w%s.jpg"
+        },
+        {
+         "name": "fluffy-favourites-html-desktop",
+         "title": "Fluffy Favourites",
+         "gameSkin": "ecn_fluffyfavourites",
+         "demoUrl": "/service/game/demo/fluffy-favourites-html-desktop",
+         "realUrl": "/service/game/play/fluffy-favourites-html-desktop",
+         "representativeColor": "#000000",
+         "imgUrlPattern": "/api/content/gametiles/fluffy-favourites/scale-s%s/fluffy-favourites-tile-r%s-w%s.jpg"
+        }
+      ]
+    },
+    {
+      "name": "logged-out-top-slots",
+      "games":
+      [
+        {
+          "name": "slot-double-bubble",
+          "title": "Double Bubble",
+          "gameSkin": "doublebubblestateful",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-double-bubble",
+          "realUrl": "/service/game/play/slot-double-bubble",
+          "representativeColor": "#86c2ab",
+          "imgUrlPattern": "/api/content/gametiles/double-bubble-logged-out/scale-s%s/double-bubble-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-island",
+          "gameSkin": "TikiIsland",
+          "title": "Tiki Island",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-tiki-island",
+          "realUrl": "/service/game/play/slot-tiki-island",
+          "representativeColor": " #21a2f8",
+          "imgUrlPattern": "/api/content/gametiles/tiki-island-logged-out/scale-s%s/tiki-island-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-paper-wins",
+          "title": "Paper Wins",
+          "gameSkin": "paperwins",
+          "demoUrl": "/service/game/demo/slot-paper-wins",
+          "realUrl": "/service/game/play/slot-paper-wins",
+          "representativeColor": "#0d0c46",
+          "imgUrlPattern": "/api/content/gametiles/paper-wins/scale-s%s/paper-wins-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-totems",
+          "title": "Tiki Totems",
+          "gameSkin": "tikitotems",
+          "demoUrl": "/service/game/demo/slot-tiki-totems",
+          "realUrl": "/service/game/play/slot-tiki-totems",
+          "representativeColor": "#17acff",
+          "imgUrlPattern": "/api/content/gametiles/tiki-totems-logged-out/scale-s%s/tiki-totems-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-double-bubble-progressive",
+          "title": "Double Bubble Jackpot",
+          "gameSkin": "DoubleBubbleProgressive",
+          "demoUrl": "/service/game/play/slot-double-bubble-progressive",
+          "realUrl": "/service/game/play/slot-double-bubble-progressive",
+          "representativeColor": "#86c2ab",
+          "progressiveBackgroundColor": "#2ea977",
+          "imgUrlPattern": "/api/content/gametiles/double-bubble-jackpot-logged-out/scale-s%s/double-bubble-jackpot-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-secrets-of-the-phoenix",
+          "title": "Secrets of the Phoenix",
+          "gameSkin": "machupicchu",
+          "demoUrl": "/service/game/demo/slot-secrets-of-the-phoenix",
+          "realUrl": "/service/game/play/slot-secrets-of-the-phoenix",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/secrets-of-the-phoenix/scale-s%s/secrets-of-the-phoenix-tile-r%s-w%s.png"
+        },
+        {
+          "name": "slot-tiki-island-jackpot",
+          "title": "Tiki Island Jackpot",
+          "gameSkin": "tikiislandprogressive",
+          "size":
+            {
+              "wide": true,
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-tiki-island-jackpot",
+          "realUrl": "/service/game/play/slot-tiki-island-jackpot",
+          "representativeColor": "#0084F5",
+          "progressiveBackgroundColor": "#0065ab",	      
+          "imgUrlPattern": "/api/content/gametiles/tiki-island-jackpot-logged-out/scale-s%s/tiki-island-jackpot-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "rainbow-riches-desktop",
+          "title": "Rainbow Riches",
+          "gameSkin": "wms_rainbowriches",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/rainbow-riches-desktop",
+          "realUrl": "/service/game/play/rainbow-riches-desktop",
+          "representativeColor": "#000042",
+          "imgUrlPattern": "/api/content/gametiles/rainbow-riches-logged-out/scale-s%s/rainbow-riches-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-wonderland",
+          "title": "Wonderland",
+          "gameSkin": "progressivealice",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-wonderland",
+          "realUrl": "/service/game/play/slot-wonderland",
+          "representativeColor": "#000041",
+          "progressiveBackgroundColor": "#21a5d9",
+          "imgUrlPattern": "/api/content/gametiles/wonderland-logged-out/scale-s%s/wonderland-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "cleopatra-desktop",
+          "title": "Cleopatra",
+          "gameSkin": "igt_cleopatra",
+          "demoUrl": "/service/game/demo/cleopatra-desktop",
+          "realUrl": "/service/game/play/cleopatra-desktop",
+          "representativeColor": "#001574",
+          "imgUrlPattern": "/api/content/gametiles/cleopatra/scale-s%s/cleopatra-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "twin-spin-desktop",
+          "title": "Twin Spin",
+          "gameSkin": "net_twinspin",
+          "demoUrl": "/service/game/demo/twin-spin-desktop",
+          "realUrl": "/service/game/play/twin-spin-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/twin-spin/scale-s%s/twin-spin-tile-r%s-w%s.png"
+        },
+        {
+          "name": "starburst-desktop",
+          "title": "Starburst",
+          "gameSkin": "net_starburst",
+          "demoUrl": "/service/game/demo/starburst-desktop",
+          "realUrl": "/service/game/play/starburst-desktop",
+          "representativeColor": "#1E102A",
+          "imgUrlPattern": "/api/content/gametiles/starburst/scale-s%s/starburst-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-fortune-temple",
+          "title": "Fortune Temple",
+          "gameSkin": "fortunetemple",
+          "demoUrl": "/service/game/demo/slot-fortune-temple",
+          "realUrl": "/service/game/play/slot-fortune-temple",
+          "representativeColor": "#330000",
+          "imgUrlPattern": "/api/content/gametiles/fortune-temple/scale-s%s/fortune-temple-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-bubbling-falls",
+          "title": "Bubbling Falls",
+          "gameSkin": "bubblingfalls",
+          "size":
+            {
+              "wide": true,
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-bubbling-falls",
+          "realUrl": "/service/game/play/slot-bubbling-falls",
+          "representativeColor": "#294F61",
+          "imgUrlPattern": "/api/content/gametiles/bubbling-falls-logged-out/scale-s%s/bubbling-falls-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-jins-bouncing-wilds",
+          "title": "Jin's Bouncing Wilds",
+          "gameSkin": "jinsbouncingwilds",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/play-jins-bouncing-wilds",
+          "realUrl": "/service/game/play/play-jins-bouncing-wilds",
+          "representativeColor": "#26352e",
+          "imgUrlPattern": "/api/content/gametiles/jins-bouncing-wilds-logged-out/scale-s%s/jins-bouncing-wilds-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-agatha-christie",
+          "title": "Agatha Christie's Mystery Wilds",
+          "gameSkin": "agathachristie",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-agatha-christie",
+          "realUrl": "/service/game/play/slot-agatha-christie",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/agatha-christie-logged-out/scale-s%s/agatha-christie-tile-r%s-w%s.jpg"
+        },  
+        {
+          "name": "slot-houdini",
+          "title": "Houdini",
+          "gameSkin": "houdini",
+          "demoUrl": "/service/game/demo/slot-houdini",
+          "realUrl": "/service/game/play/slot-houdini",
+          "representativeColor": "#2a0001",
+          "imgUrlPattern": "/api/content/gametiles/houdini-logged-out/scale-s%s/houdini-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-dond",
+          "title": "Deal or no Deal",
+          "gameSkin": "DealOrNoDeal",
+          "demoUrl": "/service/game/demo/slot-dond",
+          "realUrl": "/service/game/play/slot-dond",
+          "representativeColor": "#190F28",
+          "progressiveBackgroundColor": "#623a9f",
+          "imgUrlPattern": "/api/content/gametiles/deal-or-no-deal-jackpot/scale-s%s/deal-or-no-deal-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-valley-of-the-kings",
+          "title": "Valley of the Kings",
+          "gameSkin": "valleyofthekings",
+          "demoUrl": "/service/game/demo/slot-valley-of-the-kings",
+          "realUrl": "/service/game/play/slot-valley-of-the-kings",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/valley-of-the-kings/scale-s%s/valley-of-the-kings-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "da-vinci-diamonds-desktop",
+          "title": "Da Vinci Diamonds",
+          "gameSkin": "igt_davinci",
+          "demoUrl": "/service/game/demo/da-vinci-diamonds-desktop",
+          "realUrl": "/service/game/play/da-vinci-diamonds-desktop",
+          "representativeColor": "#00003c",
+          "imgUrlPattern": "/api/content/gametiles/davinci/scale-s%s/davinci-tile-r%s-w%s.png"
+        }
+      ]
+    },
+    {
+      "name": "new-slots",
+      "title": "New Slots",
+      "games":
+      [
+        {
+          "name": "slot-tiki-island-jackpot",
+          "title": "Tiki Island Jackpot",
+          "gameSkin": "tikiislandprogressive",
+          "demoUrl": "/service/game/demo/slot-tiki-island-jackpot",
+          "realUrl": "/service/game/play/slot-tiki-island-jackpot",
+          "representativeColor": "#0084F5",
+          "progressiveBackgroundColor": "#0065ab",	      
+          "imgUrlPattern": "/api/content/gametiles/tiki-island-jackpot-logged-out/scale-s%s/tiki-island-jackpot-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-reel-king",
+          "title": "Reel King",
+          "gameSkin": "play-reel-king",
+          "demoUrl": "/service/game/demo/play-reel-king",
+          "realUrl": "/service/game/play/play-reel-king",
+          "representativeColor": "#0A0C7E",
+          "imgUrlPattern": "/api/content/gametiles/reel-king/scale-s%s/reel-king-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-agatha-christie-orient",
+          "title": "Agatha Christie: Murder on the Orient Express",
+          "gameSkin": "play-agatha-christie-orient", 
+          "demoUrl": "/service/game/demo/play-agatha-christie-orient",
+          "realUrl": "/service/game/play/play-agatha-christie-orient",
+          "representativeColor": "#081606",
+          "imgUrlPattern": "/api/content/gametiles/agatha-christie-motoe/scale-s%s/agatha-christie-motoe-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-book-of-ra-deluxe",
+          "title": "Book of Ra Deluxe",
+          "gameSkin": "play-book-of-ra-deluxe",
+          "demoUrl": "/service/game/demo/play-book-of-ra-deluxe",
+          "realUrl": "/service/game/play/play-book-of-ra-deluxe",
+          "representativeColor": "#540619",
+          "imgUrlPattern": "/api/content/gametiles/book-of-ra-deluxe/scale-s%s/book-of-ra-deluxe-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_JungleJackpots",
+          "title": "Jungle Jackpot",
+          "gameSkin": "BP_JungleJackpots",
+          "demoUrl": "/service/game/demo/BP_JungleJackpots",
+          "realUrl": "/service/game/play/BP_JungleJackpots",
+          "representativeColor": "#22371D",
+          "imgUrlPattern": "/api/content/gametiles/jungle-jackpots/scale-s%s/jungle-jackpots-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_PawsOfFury",
+          "title": "Paws of Fury",
+          "gameSkin": "BP_PawsOfFury",
+          "demoUrl": "/service/game/demo/BP_PawsOfFury",
+          "realUrl": "/service/game/play/BP_PawsOfFury",
+          "representativeColor": "#621012",
+          "imgUrlPattern": "/api/content/gametiles/paws-of-fury/scale-s%s/paws-of-fury-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-bubbling-falls",
+          "title": "Bubbling Falls",
+          "gameSkin": "bubblingfalls",
+          "demoUrl": "/service/game/demo/slot-bubbling-falls",
+          "realUrl": "/service/game/play/slot-bubbling-falls",
+          "representativeColor": "#294F61",
+          "imgUrlPattern": "/api/content/gametiles/bubbling-falls/scale-s%s/bubbling-falls-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_Ted",
+          "title": "Ted",
+          "gameSkin": "BP_Ted",
+          "demoUrl": "/service/game/demo/BP_Ted",
+          "realUrl": "/service/game/play/BP_Ted",
+          "representativeColor": "#04011e",
+          "imgUrlPattern": "/api/content/gametiles/ted/scale-s%s/ted-tile-r%s-w%s.jpg"
+        }
+      ]
+    },
+    {
+      "name": "large-hero-banner-logged-out",
+      "image": "/api/content/ultra-wide-tiles/logged-out/casino/tile-50-center-assets/scale-s%s/tile-55-w%s.jpg"
+    },
+    {
+      "name": "large-hero-banner-logged-in",
+      "href": "https://www.jackpotjoy.com/promotions",
+      "image": "/api/content/ultra-wide-tiles/logged-in/slots/tile-50-center-assets/scale-s%s/tile-r%s-w%s.jpg"
+    },
+    {
+      "name": "popular-favourites",
+      "title": "Popular Favourites",
+      "games":
+      [
+        {
+          "name": "slot-fortune-temple",
+          "title": "Fortune Temple",
+          "gameSkin": "fortunetemple",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-fortune-temple",
+          "realUrl": "/service/game/play/slot-fortune-temple",
+          "representativeColor": "#330000",
+          "imgUrlPattern": "/api/content/gametiles/fortune-temple/scale-s%s/fortune-temple-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-fun-of-the-fair",
+          "title": "Fun of the Fair",
+          "gameSkin": "FunOfTheFair",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-fun-of-the-fair",
+          "realUrl": "/service/game/play/slot-fun-of-the-fair",
+          "representativeColor": "#000066",
+          "imgUrlPattern": "/api/content/gametiles/fun-of-the-fair/scale-s%s/fun-of-the-fair-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "cleopatra-desktop",
+          "title": "Cleopatra",
+          "gameSkin": "igt_cleopatra",
+          "demoUrl": "/service/game/demo/cleopatra-desktop",
+          "realUrl": "/service/game/play/cleopatra-desktop",
+          "representativeColor": "#001574",
+          "imgUrlPattern": "/api/content/gametiles/cleopatra/scale-s%s/cleopatra-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-agatha-christie",
+          "title": "Agatha Christie's Mystery Wilds",
+          "gameSkin": "agathachristie",
+          "demoUrl": "/service/game/demo/slot-agatha-christie",
+          "realUrl": "/service/game/play/slot-agatha-christie",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/agatha-christie-logged-out/scale-s%s/agatha-christie-tile-r%s-w%s.jpg"
+        }, 
+        {
+          "name": "slot-monopoly-rising-riches",
+          "title": "MONOPOLY Rising Riches",
+          "gameSkin": "monopolyrisingriches",
+          "demoUrl": "/service/game/demo/slot-monopoly-rising-riches",
+          "realUrl": "/service/game/play/slot-monopoly-rising-riches",
+          "representativeColor": "#76be99",
+          "imgUrlPattern": "/api/content/gametiles/monopoly-rising-riches/scale-s%s/monopoly-rising-riches-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "ocean-magic",
+          "title": "Ocean Magic",
+          "gameSkin": "oceanmagic",
+          "demoUrl": "/service/game/demo/ocean-magic",
+          "realUrl": "/service/game/play/ocean-magic",
+          "representativeColor": "#222E63",
+          "imgUrlPattern": "/api/content/gametiles/ocean-magic/scale-s%s/ocean-magic-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-houdini",
+          "title": "Houdini",
+          "gameSkin": "houdini",
+          "size":
+            {
+              "wide": true,
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-houdini",
+          "realUrl": "/service/game/play/slot-houdini",
+          "representativeColor": "#2a0001",
+          "imgUrlPattern": "/api/content/gametiles/houdini-logged-out/scale-s%s/houdini-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-temple",
+          "title": "Tiki Temple",
+          "gameSkin": "tikitemple2_3",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-tiki-temple",
+          "realUrl": "/service/game/play/slot-tiki-temple",
+          "representativeColor": "#40A7A0",
+          "progressiveBackgroundColor": "#EA359E",
+          "imgUrlPattern": "/api/content/gametiles/tiki-temple/scale-s%s/tiki-temple-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-island",
+          "gameSkin": "TikiIsland",
+          "title": "Tiki Island",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-tiki-island",
+          "realUrl": "/service/game/play/slot-tiki-island",
+          "representativeColor": " #21a2f8",
+          "imgUrlPattern": "/api/content/gametiles/tiki-island/scale-s%s/tiki-island-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-monopoly-city-spins",
+          "title": "MONOPOLY City Spins",
+          "gameSkin": "monopolycityspins",
+          "demoUrl": "/service/game/demo/slot-monopoly-city-spins",
+          "realUrl": "/service/game/play/slot-monopoly-city-spins",
+          "representativeColor": "#181035",
+          "imgUrlPattern": "/api/content/gametiles/monopoly-city-spins/scale-s%s/monopoly-city-spins-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "100000-pyramid-desktop",
+          "title": "100,000 Pyramid",
+          "gameSkin": "igt_100000_pyramid",
+          "demoUrl": "/service/game/demo/100000-pyramid-desktop",
+          "realUrl": "/service/game/play/100000-pyramid-desktop",
+          "representativeColor": "#021f83",
+          "imgUrlPattern": "/api/content/gametiles/100000-pyramid/scale-s%s/100000-pyramid-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "pixies-of-the-forest-desktop",
+          "title": "Pixies of the Forest",
+          "gameSkin": "igt_pixies_forest",
+          "demoUrl": "/service/game/demo/pixies-of-the-forest-desktop",
+          "realUrl": "/service/game/play/pixies-of-the-forest-desktop",
+          "representativeColor": "#0d5803",
+          "imgUrlPattern": "/api/content/gametiles/pixies-forest/scale-s%s/pixies-forest-tile-r%s-w%s.png"
+        },
+        {
+          "name": "slot-fun-on-the-seafront",
+          "title": "Fun on the Seafront",
+          "gameSkin": "funontheseafront",
+          "demoUrl": "/service/game/demo/slot-fun-on-the-seafront",
+          "realUrl": "/service/game/play/slot-fun-on-the-seafront",
+          "representativeColor": "#1a83a2",
+          "imgUrlPattern": "/api/content/gametiles/fun-on-the-seafront/scale-s%s/fun-on-the-seafront-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-sapphire-sorceress",
+          "title": "Sapphire Sorceress",
+          "gameSkin": "sapphiresorceress",
+          "demoUrl": "/service/game/demo/slot-sapphire-sorceress",
+          "realUrl": "/service/game/play/slot-sapphire-sorceress",
+          "representativeColor": "#161014",
+          "imgUrlPattern": "/api/content/gametiles/sapphire-sorceress/scale-s%s/sapphire-sorceress-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_KingKongCash",
+          "title": "King Kong Cash",
+          "gameSkin": "BP_KingKongCash",
+          "demoUrl": "/service/game/demo/BP_KingKongCash",
+          "realUrl": "/service/game/play/BP_KingKongCash",
+          "representativeColor": "#002B1E",
+          "imgUrlPattern": "/api/content/gametiles/king-kong-cash/scale-s%s/king-kong-cash-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_WildAntics",
+          "title": "Wild Antics",
+          "gameSkin": "BP_WildAntics",
+          "demoUrl": "/service/game/demo/BP_WildAntics",
+          "realUrl": "/service/game/play/BP_WildAntics",
+          "representativeColor": "#1B4832",
+          "imgUrlPattern": "/api/content/gametiles/wild-antics/scale-s%s/wild-antics-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "starburst-desktop",
+          "title": "Starburst",
+          "gameSkin": "net_starburst",
+          "demoUrl": "/service/game/demo/starburst-desktop",
+          "realUrl": "/service/game/play/starburst-desktop",
+          "representativeColor": "#1E102A",
+          "imgUrlPattern": "/api/content/gametiles/starburst/scale-s%s/starburst-tile-r%s-w%s.jpg"
+        }
+      ]
+    },
+    {
+      "name": "tiki-loves",
+      "title": "Tiki Loves",
+      "games":
+      [
+        {
+          "name": "butterfly-staxx-desktop",
+          "title": "Butterfly Staxx",
+          "gameSkin": "butterflystaxx",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/butterfly-staxx-desktop",
+          "realUrl": "/service/game/play/butterfly-staxx-desktop",
+          "representativeColor": "#2C3B57",
+          "imgUrlPattern": "/api/content/gametiles/butterfly-staxx/scale-s%s/butterfly-staxx-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-zen-garden",
+          "title": "Zen Garden",
+          "gameSkin": "zengarden",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-zen-garden",
+          "realUrl": "/service/game/play/slot-zen-garden",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/zen-garden/scale-s%s/zen-garden-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-twilight-forest",
+          "gameSkin": "twilightforest",
+          "title": "Twilight Forest",
+          "demoUrl": "/service/game/demo/slot-twilight-forest",
+          "realUrl": "/service/game/play/slot-twilight-forest",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/twilight-forest/scale-s%s/twilight-forest-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "magic-castle-desktop",
+          "title": "Magic Castle",
+          "gameSkin": "magiccastle",
+          "demoUrl": "/service/game/demo/magic-castle-desktop",
+          "realUrl": "/service/game/play/magic-castle-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/magic-castle/scale-s%s/magic-castle-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-in-it-for-the-monet",
+          "title": "In It For The Monet",
+          "gameSkin": "initforthemonetstateful",
+          "demoUrl": "/service/game/demo/slot-in-it-for-the-monet",
+          "realUrl": "/service/game/play/slot-in-it-for-the-monet",
+          "representativeColor": "#3b140d",
+          "imgUrlPattern": "/api/content/gametiles/in-it-for-the-monet/scale-s%s/in-it-for-the-monet-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "sugar-train-html-desktop",
+          "title": "Sugar Train",
+          "gameSkin": "ecn_sugartrain",
+          "demoUrl": "/service/game/demo/sugar-train-html-desktop",
+          "realUrl": "/service/game/play/sugar-train-html-desktop",
+          "representativeColor": "#1f6c04",
+          "imgUrlPattern": "/api/content/gametiles/sugar-train/scale-s%s/sugar-train-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-wings-of-paradise",
+          "gameSkin": "play-wings-of-paradise",
+          "title": "Wings of Paradise",
+          "size":
+            {
+              "tall": true,
+              "wide": true
+            },
+          "demoUrl": "/service/game/demo/play-wings-of-paradise",
+          "realUrl": "/service/game/play/play-wings-of-paradise",
+          "representativeColor": "#281436",
+          "imgUrlPattern": "/api/content/gametiles/wings-of-paradise/scale-s%s/wings-of-paradise-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-triple-win-cafe",
+          "title": "Triple Win Cafe",
+          "gameSkin": "triplewincafe",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-triple-win-cafe",
+          "realUrl": "/service/game/play/slot-triple-win-cafe",
+          "representativeColor": "#91C6A8",
+          "imgUrlPattern": "/api/content/gametiles/triple-win-cafe/scale-s%s/triple-win-cafe-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "wizard-of-oz-ruby-slippers-desktop",
+          "title": "Wizard of Oz: Ruby Slippers",
+          "gameSkin": "wms_wozrubyslippers",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/wizard-of-oz-ruby-slippers-desktop",
+          "realUrl": "/service/game/play/wizard-of-oz-ruby-slippers-desktop",
+          "representativeColor": "#4554a4",
+          "imgUrlPattern": "/api/content/gametiles/wizard-of-oz-ruby-slippers/scale-s%s/wizard-of-oz-rubby-slippers-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-take-me-out",
+          "title": "Take Me Out Date Night",
+          "gameSkin": "takemeout",
+          "demoUrl": "/service/game/demo/slot-take-me-out",
+          "realUrl": "/service/game/play/slot-take-me-out",
+          "representativeColor": "#080021",
+          "imgUrlPattern": "/api/content/gametiles/take-me-out-date-tonight/scale-s%s/take-me-out-date-tonight-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "golden-goddess-desktop",
+          "title": "Golden Goddess",
+          "gameSkin": "goldengoddess",
+          "demoUrl": "/service/game/demo/golden-goddess-desktop",
+          "realUrl": "/service/game/play/golden-goddess-desktop",
+          "representativeColor": "#5a239b",
+          "imgUrlPattern": "/api/content/gametiles/golden-goddess/scale-s%s/golden-goddess-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-nuts-and-bolts",
+          "title": "Nuts & Bolts",
+          "gameSkin": "nutsandbolts",
+          "demoUrl": "/service/game/demo/slot-nuts-and-bolts",
+          "realUrl": "/service/game/play/slot-nuts-and-bolts",
+          "representativeColor": "#0d0b28",
+          "imgUrlPattern": "/api/content/gametiles/nuts-and-bolts/scale-s%s/nuts-and-bolts-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-island-jackpot",
+          "title": "Tiki Island Jackpot",
+          "gameSkin": "tikiislandprogressive",
+          "demoUrl": "/service/game/demo/slot-tiki-island-jackpot",
+          "realUrl": "/service/game/play/slot-tiki-island-jackpot",
+          "representativeColor": "#0084F5",
+          "progressiveBackgroundColor": "#0065ab",	      
+          "imgUrlPattern": "/api/content/gametiles/tiki-island-jackpot-logged-out/scale-s%s/tiki-island-jackpot-tile-r%s-w%s.jpg"
+        }
+      ]
+    },
+    {
+      "name": "all-games",
+      "title": "All Games",
+      "games":
+      [
+        {
+          "name": "100000-pyramid-desktop",
+          "title": "100,000 Pyramid",
+          "gameSkin": "igt_100000_pyramid",
+          "demoUrl": "/service/game/demo/100000-pyramid-desktop",
+          "realUrl": "/service/game/play/100000-pyramid-desktop",
+          "representativeColor": "#021f83",
+          "imgUrlPattern": "/api/content/gametiles/100000-pyramid/scale-s%s/100000-pyramid-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-agatha-christie-orient",
+          "title": "Agatha Christie: Murder on the Orient Express",
+          "gameSkin": "play-agatha-christie-orient",
+          "demoUrl": "/service/game/demo/play-agatha-christie-orient",
+          "realUrl": "/service/game/play/play-agatha-christie-orient",
+          "representativeColor": "#081606",
+          "imgUrlPattern": "/api/content/gametiles/agatha-christie-motoe/scale-s%s/agatha-christie-motoe-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-agatha-christie",
+          "title": "Agatha Christie's Mystery Wilds",
+          "gameSkin": "agathachristie",
+          "demoUrl": "/service/game/demo/slot-agatha-christie",
+          "realUrl": "/service/game/play/slot-agatha-christie",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/agatha-christie/scale-s%s/agatha-christie-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-all-star-family-fortunes",
+          "title": "All Star Family Fortunes",
+          "gameSkin": "allstarfamilyfortunes",
+          "demoUrl": "/service/game/demo/slot-all-star-family-fortunes",
+          "realUrl": "/service/game/play/slot-all-star-family-fortunes",
+          "representativeColor": "#281436",
+          "imgUrlPattern": "/api/content/gametiles/all-star-family-fortunes/scale-s%s/all-star-family-fortunes-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "balloonies-farm-desktop",
+          "title": "Balloonies Farm",
+          "gameSkin": "igt_balloonies_farm",
+          "demoUrl": "/service/game/demo/balloonies-farm-desktop",
+          "realUrl": "/service/game/play/balloonies-farm-desktop",
+          "representativeColor": "#0661fa",
+          "imgUrlPattern": "/api/content/gametiles/balloonies-farm/scale-s%s/balloonies-farm-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "beat-the-bobbies-html-desktop",
+          "title": "Beat the Bobbies",
+          "gameSkin": "beatthebobbies",
+          "demoUrl": "/service/game/play/beat-the-bobbies-html-desktop",
+          "realUrl": "/service/game/play/beat-the-bobbies-html-desktop",
+          "representativeColor": "#060f46",
+          "imgUrlPattern": "/api/content/gametiles/beat-the-bobbies/scale-s%s/beat-the-bobbies-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "blood-suckers-2-desktop",
+          "title": "Blood Suckers 2",
+          "gameSkin": "bloodsuckers2",
+          "demoUrl": "/service/game/demo/blood-suckers-2-desktop",
+          "realUrl": "/service/game/play/blood-suckers-2-desktop",
+          "representativeColor": "#0b0f1c",
+          "imgUrlPattern": "/api/content/gametiles/blood-suckers-2/scale-s%s/blood-suckers-2-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-book-of-ra-deluxe",
+          "title": "Book of Ra Deluxe",
+          "gameSkin": "play-book-of-ra-deluxe",
+          "demoUrl": "/service/game/demo/play-book-of-ra-deluxe",
+          "realUrl": "/service/game/play/play-book-of-ra-deluxe",
+          "representativeColor": "#540619",
+          "imgUrlPattern": "/api/content/gametiles/book-of-ra-deluxe/scale-s%s/book-of-ra-deluxe-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-bubbling-falls",
+          "title": "Bubbling Falls",
+          "gameSkin": "bubblingfalls",
+          "demoUrl": "/service/game/demo/slot-bubbling-falls",
+          "realUrl": "/service/game/play/slot-bubbling-falls",
+          "representativeColor": "#294F61",
+          "imgUrlPattern": "/api/content/gametiles/bubbling-falls/scale-s%s/B-Falls.gif"
+        },      
+        {
+          "name": "butterfly-staxx-desktop",
+          "title": "Butterfly Staxx",
+          "gameSkin": "butterflystaxx",
+          "demoUrl": "/service/game/demo/butterfly-staxx-desktop",
+          "realUrl": "/service/game/play/butterfly-staxx-desktop",
+          "representativeColor": "#2C3B57",
+          "imgUrlPattern": "/api/content/gametiles/butterfly-staxx/scale-s%s/butterfly-staxx-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_CasperMysteryMirror",
+          "title": "Caspers Mystery Mirror",
+          "gameSkin": "BP_CasperMysteryMirror",
+          "demoUrl": "/service/game/demo/BP_CasperMysteryMirror",
+          "realUrl": "/service/game/play/BP_CasperMysteryMirror",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/caspers-mystery-mirror/scale-s%s/caspers-mystery-mirror-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "cats-desktop",
+          "title": "Cats",
+          "gameSkin": "igt_cats",
+          "demoUrl": "/service/game/demo/cats-desktop",
+          "realUrl": "/service/game/play/cats-desktop",
+          "representativeColor": "#631c04",
+          "imgUrlPattern": "/api/content/gametiles/cats/scale-s%s/cats-tile-r%s-w%s.png"
+        },
+        {
+          "name": "cleopatra-desktop",
+          "title": "Cleopatra",
+          "gameSkin": "igt_cleopatra",
+          "demoUrl": "/service/game/demo/cleopatra-desktop",
+          "realUrl": "/service/game/play/cleopatra-desktop",
+          "representativeColor": "#001574",
+          "imgUrlPattern": "/api/content/gametiles/cleopatra/scale-s%s/cleopatra-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "cleopatra-plus-desktop",
+          "title": "Cleopatra Plus",
+          "gameSkin": "cleopatraplus",
+          "demoUrl": "/service/game/demo/cleopatra-plus-desktop",
+          "realUrl": "/service/game/play/cleopatra-plus-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/cleopatra-plus/scale-s%s/cleopatra-plus-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "copy-cats-desktop",
+          "title": "Copy Cats",
+          "gameSkin": "copycats",
+          "demoUrl": "/service/game/demo/copy-cats-desktop",
+          "realUrl": "/service/game/play/copy-cats-desktop",
+          "representativeColor": "#133954",
+          "imgUrlPattern": "/api/content/gametiles/copy-cats/scale-s%s/copy-cats-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "da-vinci-diamonds-desktop",
+          "title": "Da Vinci Diamonds",
+          "gameSkin": "igt_davinci",
+          "demoUrl": "/service/game/demo/da-vinci-diamonds-desktop",
+          "realUrl": "/service/game/play/da-vinci-diamonds-desktop",
+          "representativeColor": "#00003c",
+          "imgUrlPattern": "/api/content/gametiles/davinci/scale-s%s/davinci-tile-r%s-w%s.png"
+        },
+        {
+          "name": "dazzle-me-desktop",
+          "title": "Dazzle Me",
+          "gameSkin": "net_dazzleme",
+          "demoUrl": "/service/game/demo/dazzle-me-desktop",
+          "realUrl": "/service/game/play/dazzle-me-desktop",
+          "representativeColor": "#ff6622",
+          "imgUrlPattern": "/api/content/gametiles/dazzle-me/scale-s%s/dazzle-me-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-dond",
+          "title": "Deal or no Deal",
+          "gameSkin": "DealOrNoDeal",
+          "demoUrl": "/service/game/demo/slot-dond",
+          "realUrl": "/service/game/play/slot-dond",
+          "representativeColor": "#190F28",
+          "progressiveBackgroundColor": "#623a9f",
+          "imgUrlPattern": "/api/content/gametiles/deal-or-no-deal-jackpot/scale-s%s/deal-or-no-deal-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_DealOrNoDeal",
+          "title": "Deal or No Deal: What's In Your Box",
+          "gameSkin": "BP_DealOrNoDeal",
+          "demoUrl": "/service/game/demo/BP_DealOrNoDeal",
+          "realUrl": "/service/game/play/BP_DealOrNoDeal",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/deal-or-no-deal-whats-in-your-box/scale-s%s/dond-whats-in-your-box-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-double-bubble",
+          "title": "Double Bubble",
+          "gameSkin": "doublebubblestateful",
+          "demoUrl": "/service/game/demo/slot-double-bubble",
+          "realUrl": "/service/game/play/slot-double-bubble",
+          "representativeColor": "#86c2ab",
+          "imgUrlPattern": "/api/content/gametiles/double-bubble/scale-s%s/double-bubble-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-diamond-bonanza",
+          "title": "Diamond Bonanza",
+          "gameSkin": "diamondbonanza",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-diamond-bonanza",
+          "realUrl": "/service/game/play/slot-diamond-bonanza",
+          "representativeColor": "#000000",
+          "progressiveBackgroundColor": "#a5d921",
+          "imgUrlPattern": "/api/content/gametiles/diamond-bonanza/scale-s%s/diamond-bonanza-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-double-bubble-progressive",
+          "title": "Double Bubble Jackpot",
+          "gameSkin": "DoubleBubbleProgressive",
+          "demoUrl": "/service/game/demo/slot-double-bubble-progressive",
+          "realUrl": "/service/game/play/slot-double-bubble-progressive",
+          "representativeColor": "#86c2ab",
+          "progressiveBackgroundColor": "#2ea977",
+          "imgUrlPattern": "/api/content/gametiles/double-bubble-jackpot/scale-s%s/double-bubble-jackpot-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_SenorBurrito",
+          "title": "El Jackpotto",
+          "gameSkin": "BP_SenorBurrito",   
+          "demoUrl": "/service/game/demo/BP_SenorBurrito",
+          "realUrl": "/service/game/play/BP_SenorBurrito",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/el-jackpotto/scale-s%s/el-jackpotto-tile-r%s-w%s.jpg"
+        },      
+        {
+          "name": "enchanted-prince-html-desktop",
+          "title": "Enchanted Prince",
+          "gameSkin": "enchantedprince",
+          "demoUrl": "/service/game/demo/enchanted-prince-html-desktop",
+          "realUrl": "/service/game/play/enchanted-prince-html-desktop",
+          "representativeColor": "#00142a",
+          "imgUrlPattern": "/api/content/gametiles/enchanted-prince/scale-s%s/enchanted-prince-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "fairytale-legends-hansel-and-gretel-desktop",
+          "title": "Fairytale Legends: Hansel and Gretel",
+          "gameSkin": "fairytalelegendshanselgretel",
+          "demoUrl": "/service/game/demo/fairytale-legends-hansel-and-gretel-desktop",
+          "realUrl": "/service/game/play/fairytale-legends-hansel-and-gretel-desktop",
+          "representativeColor": "#041240",
+          "imgUrlPattern": "/api/content/gametiles/fairytale-legends-hansel-and-gretel/scale-s%s/fairytale-legends-hansel-and-gretel-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "fairytale-legends-red-riding-hood-desktop",
+          "title": "Fairytale Legends: Red Riding Hood",
+          "gameSkin": "fairytalelegendsredridinghood",
+          "demoUrl": "/service/game/demo/fairytale-legends-red-riding-hood-desktop",
+          "realUrl": "/service/game/play/fairytale-legends-red-riding-hood-desktop",
+          "representativeColor": "#320001",
+          "imgUrlPattern": "/api/content/gametiles/fairytale-legends/scale-s%s/fairytale-legends-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "family-guy-desktop",
+          "title": "Family Guy",
+          "gameSkin": "familyguy",
+          "demoUrl": "/service/game/demo/family-guy-desktop",
+          "realUrl": "/service/game/play/family-guy-desktop",
+          "representativeColor": "#f15a29",
+          "imgUrlPattern": "/api/content/gametiles/family-guy/scale-s%s/family-guy-tile-r%s-w%s.jpg"
+        },
+        {
+         "name": "fluffy-favourites-html-desktop",
+         "title": "Fluffy Favourites",
+         "gameSkin": "ecn_fluffyfavourites",
+         "demoUrl": "/service/game/demo/fluffy-favourites-html-desktop",
+         "realUrl": "/service/game/play/fluffy-favourites-html-desktop",
+         "representativeColor": "#000000",
+         "imgUrlPattern": "/api/content/gametiles/fluffy-favourites/scale-s%s/fluffy-favourites-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "fluffy-too-html-desktop",
+          "title": "Fluffy Too",
+          "gameSkin": "ecn_fluffytoo",
+          "demoUrl": "/service/game/demo/fluffy-too-html-desktop",
+          "realUrl": "/service/game/play/fluffy-too-html-desktop",
+          "representativeColor": "#20a8fe",
+          "imgUrlPattern": "/api/content/gametiles/fluffy-too/scale-s%s/fluffy-too-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-fortuna-the-dragon",
+          "title": "Fortuna the Dragon",
+          "gameSkin": "fortuna",
+          "demoUrl": "/service/game/demo/slot-fortuna-the-dragon",
+          "realUrl": "/service/game/play/slot-fortuna-the-dragon",
+          "representativeColor": "#006600",
+          "imgUrlPattern": "/api/content/gametiles/fortuna-the-dragon/scale-s%s/fortuna-the-dragon-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-fortune-temple",
+          "title": "Fortune Temple",
+          "gameSkin": "fortunetemple",
+          "demoUrl": "/service/game/demo/slot-fortune-temple",
+          "realUrl": "/service/game/play/slot-fortune-temple",
+          "representativeColor": "#330000",
+          "imgUrlPattern": "/api/content/gametiles/fortune-temple/scale-s%s/fortune-temple-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-fun-of-the-fair",
+          "title": "Fun of the Fair",
+          "gameSkin": "FunOfTheFair",
+          "demoUrl": "/service/game/demo/slot-fun-of-the-fair",
+          "realUrl": "/service/game/play/slot-fun-of-the-fair",
+          "representativeColor": "#000066",
+          "imgUrlPattern": "/api/content/gametiles/fun-of-the-fair/scale-s%s/fun-of-the-fair-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-fun-on-the-seafront",
+          "title": "Fun on the Seafront",
+          "gameSkin": "funontheseafront",
+          "demoUrl": "/service/game/demo/slot-fun-on-the-seafront",
+          "realUrl": "/service/game/play/slot-fun-on-the-seafront",
+          "representativeColor": "#1a83a2",
+          "imgUrlPattern": "/api/content/gametiles/fun-on-the-seafront/scale-s%s/fun-on-the-seafront-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "ghostbusters-triple-slime-desktop",
+          "title": "Ghostbusters Triple Slime",
+          "gameSkin": "ghostbusterstripleslime",
+          "demoUrl": "/service/game/demo/ghostbusters-triple-slime-desktop",
+          "realUrl": "/service/game/play/ghostbusters-triple-slime-desktop",
+          "representativeColor": "#01193d",
+          "imgUrlPattern": "/api/content/gametiles/ghostbusters-triple-slim/scale-s%s/ghostbusters-triple-slim-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "golden-goddess-desktop",
+          "title": "Golden Goddess",
+          "gameSkin": "goldengoddess",
+          "demoUrl": "/service/game/demo/golden-goddess-desktop",
+          "realUrl": "/service/game/play/golden-goddess-desktop",
+          "representativeColor": "#5a239b",
+          "imgUrlPattern": "/api/content/gametiles/golden-goddess/scale-s%s/golden-goddess-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "gonzos-quest-desktop",
+          "title": "Gonzo's Quest",
+          "gameSkin": "gonzosquest",
+          "demoUrl": "/service/game/demo/gonzos-quest-desktop",
+          "realUrl": "/service/game/play/gonzos-quest-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/gonzos-quest/scale-s%s/gonzos-quest-tile-r%s-w%s.png"
+        },
+        {
+          "name": "guns-n-roses-desktop",
+          "title": "Guns N' Roses",
+          "gameSkin": "gunsnroses",
+          "demoUrl": "/service/game/demo/guns-n-roses-desktop",
+          "realUrl": "/service/game/play/guns-n-roses-desktop",
+          "representativeColor": "#1f2a34",
+          "imgUrlPattern": "/api/content/gametiles/guns-n-roses/scale-s%s/guns-n-roses-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "harley-davidson-desktop",
+          "title": "Harley Davidon Freedom Tour",
+          "gameSkin": "harleydavidsonfreedomtour",
+          "demoUrl": "/service/game/demo/harley-davidson-desktop",
+          "realUrl": "/service/game/play/harley-davidson-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/harley-davidson-freedom-tour/scale-s%s/harley-davidson-freedom-tour-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-houdini",
+          "title": "Houdini",
+          "gameSkin": "houdini",
+          "demoUrl": "/service/game/demo/slot-houdini",
+          "realUrl": "/service/game/play/slot-houdini",
+          "representativeColor": "#2a0001",
+          "imgUrlPattern": "/api/content/gametiles/houdini/scale-s%s/houdini-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "icy-wilds",
+          "title": "Icy Wilds",
+          "gameSkin": "icy-wilds", 
+          "demoUrl": "/service/game/demo/icy-wilds",
+          "realUrl": "/service/game/play/icy-wilds",
+          "representativeColor": "#0a1147",
+          "imgUrlPattern": "/api/content/gametiles/icy-wilds/scale-s%s/icy-wilds-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-in-it-for-the-monet",
+          "title": "In It For The Monet",
+          "gameSkin": "initforthemonetstateful",
+          "demoUrl": "/service/game/demo/slot-in-it-for-the-monet",
+          "realUrl": "/service/game/play/slot-in-it-for-the-monet",
+          "representativeColor": "#3b140d",
+          "imgUrlPattern": "/api/content/gametiles/in-it-for-the-monet/scale-s%s/in-it-for-the-monet-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "jack-and-the-beanstalk-desktop",
+          "title": "Jack and the Beanstalk",
+          "gameSkin": "jackandthebeanstalk",
+          "demoUrl": "/service/game/demo/jack-and-the-beanstalk-desktop",
+          "realUrl": "/service/game/play/jack-and-the-beanstalk-desktop",
+          "representativeColor": "#2d1a11",
+          "imgUrlPattern": "/api/content/gametiles/jack-and-the-beanstalk/scale-s%s/jack-and-the-beanstalk-tile-r%s-w%s.png"
+        },
+        {
+          "name": "play-jins-bouncing-wilds",
+          "title": "Jin's Bouncing Wilds",
+          "gameSkin": "jinsbouncingwilds",
+          "demoUrl": "/service/game/demo/play-jins-bouncing-wilds",
+          "realUrl": "/service/game/play/play-jins-bouncing-wilds",
+          "representativeColor": "#26352e",
+          "imgUrlPattern": "/api/content/gametiles/jins-bouncing-wilds/scale-s%s/jins-bouncing-wilds-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_JungleJackpots",
+          "title": "Jungle Jackpot",
+          "gameSkin": "BP_JungleJackpots",
+          "demoUrl": "/service/game/demo/BP_JungleJackpots",
+          "realUrl": "/service/game/play/BP_JungleJackpots",
+          "representativeColor": "#22371D",
+          "imgUrlPattern": "/api/content/gametiles/jungle-jackpots/scale-s%s/jungle-jackpots-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-jungle-jump",
+          "title": "Jungle Jump",
+          "gameSkin": "jumpstateful",
+          "demoUrl": "/service/game/demo/slot-jungle-jump",
+          "realUrl": "/service/game/play/slot-jungle-jump",
+          "representativeColor": "#FF4E2D",
+          "imgUrlPattern": "/api/content/gametiles/jungle-jump/scale-s%s/jungle-jump-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_KingKongCash",
+          "title": "King Kong Cash",
+          "gameSkin": "BP_KingKongCash",
+          "demoUrl": "/service/game/demo/BP_KingKongCash",
+          "realUrl": "/service/game/play/BP_KingKongCash",
+          "representativeColor": "#002B1E",
+          "imgUrlPattern": "/api/content/gametiles/king-kong-cash/scale-s%s/king-kong-cash-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "kitty-glitter-desktop",
+          "title": "Kitty Glitter",
+          "gameSkin": "igt_kitty_glitter",
+          "demoUrl": "/service/game/demo/kitty-glitter-desktop",
+          "realUrl": "/service/game/play/kitty-glitter-desktop",
+          "representativeColor": "#1c0051",
+          "imgUrlPattern": "/api/content/gametiles/kitty-glitter/scale-s%s/kitty-glitter-tile-r%s-w%s.png"
+        },
+        {
+          "name": "lobstermania-2-desktop",
+          "title": "Lobstermania 2",
+          "gameSkin": "igt_lobstermania2",
+          "demoUrl": "/service/game/demo/lobstermania-2-desktop",
+          "realUrl": "/service/game/play/lobstermania-2-desktop",
+          "representativeColor": "#190658",
+          "imgUrlPattern": "/api/content/gametiles/lobster-mania2/scale-s%s/lobster-mania2-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "magic-castle-desktop",
+          "title": "Magic Castle",
+          "gameSkin": "magiccastle",
+          "demoUrl": "/service/game/demo/magic-castle-desktop",
+          "realUrl": "/service/game/play/magic-castle-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/magic-castle/scale-s%s/magic-castle-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-million-pound-drop",
+          "title": "Million Pound Drop",
+          "gameSkin": "millionpounddrop",
+          "demoUrl": "/service/game/demo/slot-million-pound-drop",
+          "realUrl": "/service/game/play/slot-million-pound-drop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/million-pound-drop/scale-s%s/million-pound-drop-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_NakedGun",
+          "title": "Naked Gun",
+          "gameSkin": "BP_NakedGun",
+          "demoUrl": "/service/game/demo/BP_NakedGun",
+          "realUrl": "/service/game/play/BP_NakedGun",
+          "representativeColor": "#363638",
+          "imgUrlPattern": "/api/content/gametiles/the-naked-gun/scale-s%s/the-naked-gun-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-monopoly-city-spins",
+          "title": "MONOPOLY City Spins",
+          "gameSkin": "monopolycityspins",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-monopoly-city-spins",
+          "realUrl": "/service/game/play/slot-monopoly-city-spins",
+          "representativeColor": "#181035",
+          "imgUrlPattern": "/api/content/gametiles/monopoly-city-spins/scale-s%s/monopoly-city-spins-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-monopoly-paradise-mansion",
+          "title": "MONOPOLY Paradise Mansion",
+          "gameSkin": "monopolyparadisemansion",
+          "size":
+            {
+              "wide": true,
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-monopoly-paradise-mansion",
+          "realUrl": "/service/game/play/slot-monopoly-paradise-mansion",
+          "representativeColor": "#280960",
+          "imgUrlPattern": "/api/content/gametiles/monopoly-paradise-mansion/scale-s%s/monopoly-paradise-mansion-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-monopoly-rising-riches",
+          "title": "MONOPOLY Rising Riches",
+          "gameSkin": "monopolyrisingriches",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-monopoly-rising-riches",
+          "realUrl": "/service/game/play/slot-monopoly-rising-riches",
+          "representativeColor": "#76be99",
+          "imgUrlPattern": "/api/content/gametiles/monopoly-rising-riches/scale-s%s/monopoly-rising-riches-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-nuts-and-bolts",
+          "title": "Nuts & Bolts",
+          "gameSkin": "nutsandbolts",
+          "demoUrl": "/service/game/demo/slot-nuts-and-bolts",
+          "realUrl": "/service/game/play/slot-nuts-and-bolts",
+          "representativeColor": "#0d0b28",
+          "imgUrlPattern": "/api/content/gametiles/nuts-and-bolts/scale-s%s/nuts-and-bolts-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "ocean-magic",
+          "title": "Ocean Magic",
+          "gameSkin": "oceanmagic",
+          "demoUrl": "/service/game/demo/ocean-magic",
+          "realUrl": "/service/game/play/ocean-magic",
+          "representativeColor": "#222E63",
+          "imgUrlPattern": "/api/content/gametiles/ocean-magic/scale-s%s/ocean-magic-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-paper-wins",
+          "title": "Paper Wins",
+          "gameSkin": "paperwins",
+          "demoUrl": "/service/game/demo/slot-paper-wins",
+          "realUrl": "/service/game/play/slot-paper-wins",
+          "representativeColor": "#0d0c46",
+          "imgUrlPattern": "/api/content/gametiles/paper-wins/scale-s%s/paper-wins-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_PawsOfFury",
+          "title": "Paws of Fury",
+          "gameSkin": "BP_PawsOfFury",
+          "demoUrl": "/service/game/demo/BP_PawsOfFury",
+          "realUrl": "/service/game/play/BP_PawsOfFury",
+          "representativeColor": "#621012",
+          "imgUrlPattern": "/api/content/gametiles/paws-of-fury/scale-s%s/paws-of-fury-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-pharaohs-chamber",
+          "title": "Secret of the Pharaoh's Chamber",
+          "gameSkin": "pharaohschamber",
+          "demoUrl": "/service/game/demo/slot-pharaohs-chamber",
+          "realUrl": "/service/game/play/slot-pharaohs-chamber",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/secrets-of-the-pharaohs-chamber/scale-s%s/secrets-of-the-pharaoh's-chamber-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "pharaohs-fortune-desktop",
+          "title": "Pharaoh's Fortune",
+          "gameSkin": "igt_pharaohs_fortune",
+          "demoUrl": "/service/game/demo/pharaohs-fortune-desktop",
+          "realUrl": "/service/game/play/pharaohs-fortune-desktop",
+          "representativeColor": "#f15a29",
+          "imgUrlPattern": "/api/content/gametiles/pharaohs-fortune/scale-s%s/pharaohs-fortune-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "piggy-payout-html-desktop",
+          "title": "Piggy Payout",
+          "gameSkin": "piggypayout",
+          "demoUrl": "/service/game/demo/piggy-payout-html-desktop",
+          "realUrl": "/service/game/play/piggy-payout-html-desktop",
+          "representativeColor": "#0b0f1b",
+          "imgUrlPattern": "/api/content/gametiles/piggy-payout/scale-s%s/piggy-payout-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_ThePigWizard",
+          "title": "Pig Wizard",
+          "gameSkin": "BP_ThePigWizard",
+          "demoUrl": "/service/game/demo/BP_ThePigWizard",
+          "realUrl": "/service/game/play/BP_ThePigWizard",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/the-pig-wizard/scale-s%s/the-pig-wizard-tile-r%s-w%s.jpg"
+        },      
+        {
+          "name": "slot-pirates-plunder",
+          "title": "Pirate's Plunder",
+          "gameSkin": "piratesplunder",
+          "demoUrl": "/service/game/demo/slot-pirates-plunder",
+          "realUrl": "/service/game/play/slot-pirates-plunder",
+          "representativeColor": "#b96827",
+          "imgUrlPattern": "/api/content/gametiles/pirates-plunder/scale-s%s/pirates-plunder-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "pixies-of-the-forest-desktop",
+          "title": "Pixies of the Forest",
+          "gameSkin": "igt_pixies_forest",
+          "demoUrl": "/service/game/demo/pixies-of-the-forest-desktop",
+          "realUrl": "/service/game/play/pixies-of-the-forest-desktop",
+          "representativeColor": "#0d5803",
+          "imgUrlPattern": "/api/content/gametiles/pixies-forest/scale-s%s/pixies-forest-tile-r%s-w%s.png"
+        },
+        {
+          "name": "pyramid-quest-for-immortality-desktop",
+          "title": "Pyramid: Quest for Immortality",
+          "gameSkin": "net_pyramidquestforimmortality",
+          "demoUrl": "/service/game/demo/pyramid-quest-for-immortality-desktop",
+          "realUrl": "/service/game/play/pyramid-quest-for-immortality-desktop",
+          "representativeColor": "#0d073b",
+          "imgUrlPattern": "/api/content/gametiles/pyramid-quest/scale-s%s/pyramid-quest-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-queen-of-the-tree-folk",
+          "title": "Queen of the Tree Folk",
+          "gameSkin": "queenofthetreefolk",
+          "demoUrl": "/service/game/demo/slot-queen-of-the-tree-folk",
+          "realUrl": "/service/game/play/slot-queen-of-the-tree-folk",
+          "representativeColor": "#050b0b",
+          "imgUrlPattern": "/api/content/gametiles/queen-of-the-tree-folk/scale-s%s/queen-of-the-treefolk-2-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "rainbow-riches-desktop",
+          "title": "Rainbow Riches",
+          "gameSkin": "wms_rainbowriches",
+          "demoUrl": "/service/game/demo/rainbow-riches-desktop",
+          "realUrl": "/service/game/play/rainbow-riches-desktop",
+          "representativeColor": "#000042",
+          "imgUrlPattern": "/api/content/gametiles/rainbow-riches/scale-s%s/rainbow-riches-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-ray-gunn",
+          "title": "Ray Gunn",
+          "gameSkin": "raygunn",
+          "demoUrl": "/service/game/demo/slot-ray-gunn",
+          "realUrl": "/service/game/play/slot-ray-gunn",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/ray-gun/scale-s%s/ray-gun-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-reel-deal-diner",
+          "title": "Reel Deal Diner",
+          "gameSkin": "hambette",
+          "demoUrl": "/service/game/demo/slot-reel-deal-diner",
+          "realUrl": "/service/game/play/slot-reel-deal-diner",
+          "representativeColor": "#6e779c",
+          "imgUrlPattern": "/api/content/gametiles/reel-deal-diner/scale-s%s/reel-deal-diner-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-reel-king",
+          "title": "Reel King",
+          "gameSkin": "play-reel-king",
+          "demoUrl": "/service/game/demo/play-reel-king",
+          "realUrl": "/service/game/play/play-reel-king",
+          "representativeColor": "#0A0C7E",
+          "imgUrlPattern": "/api/content/gametiles/reel-king/scale-s%s/reel-king-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-sapphire-sorceress",
+          "title": "Sapphire Sorceress",
+          "gameSkin": "sapphiresorceress",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-sapphire-sorceress",
+          "realUrl": "/service/game/play/slot-sapphire-sorceress",
+          "representativeColor": "#161014",
+          "imgUrlPattern": "/api/content/gametiles/sapphire-sorceress/scale-s%s/sapphire-sorceress-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-reel-wild-west",
+          "title": "Reel Wild West",
+          "gameSkin": "reelwildwest",
+          "demoUrl": "/service/game/demo/slot-reel-wild-west",
+          "realUrl": "/service/game/play/slot-reel-wild-west",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/wild-west/scale-s%s/wild-west-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "scruffy-duck-desktop",
+          "title": "Scruffy Duck",
+          "gameSkin": "scruffyduck",
+          "demoUrl": "/service/game/demo/scruffy-duck-desktop",
+          "realUrl": "/service/game/play/scruffy-duck-desktop",
+          "representativeColor": "#5cbce2",
+          "imgUrlPattern": "/api/content/gametiles/scruffy-duck/scale-s%s/scruffy-duck-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "secret-garden-html-desktop",
+          "title": "Secret Garden",
+          "gameSkin": "secretgarden",
+          "demoUrl": "/service/game/demo/secret-garden-html-desktop",
+          "realUrl": "/service/game/play/secret-garden-html-desktop",
+          "representativeColor": "#303b01",
+          "imgUrlPattern": "/api/content/gametiles/secret-garden/scale-s%s/secret-garden-tile-r%s-w%s.jpg"
+        },      
+        {
+          "name": "slot-secrets-of-the-phoenix",
+          "title": "Secrets of the Phoenix",
+          "gameSkin": "machupicchu",
+          "demoUrl": "/service/game/demo/slot-secrets-of-the-phoenix",
+          "realUrl": "/service/game/play/slot-secrets-of-the-phoenix",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/secrets-of-the-phoenix/scale-s%s/secrets-of-the-phoenix-tile-r%s-w%s.png"
+        },
+        {
+          "name": "shamans-dream-html-desktop",
+          "title": "Shaman's Dream",
+          "gameSkin": "ecn_shamansdream",
+          "demoUrl": "/service/game/demo/shamans-dream-html-desktop",
+          "realUrl": "/service/game/play/shamans-dream-html-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/shamans-dream/scale-s%s/shamans-dream-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "siberian-storm-desktop",
+          "title": "Siberian Storm",
+          "gameSkin": "siberianstorm",
+          "demoUrl": "/service/game/demo/siberian-storm-desktop",
+          "realUrl": "/service/game/play/siberian-storm-desktop",
+          "representativeColor": "#113661",
+          "imgUrlPattern": "/api/content/gametiles/siberian-storm/scale-s%s/siberian-storm-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "spartacus-desktop",
+          "title": "Spartacus",
+          "gameSkin": "wms_spartacus",
+          "demoUrl": "/service/game/demo/spartacus-desktop",
+          "realUrl": "/service/game/play/spartacus-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/spartacus/scale-s%s/spartacus-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-spinning-for-gold",
+          "title": "Spinning for Gold",
+          "gameSkin": "spinningforgold",
+          "demoUrl": "/service/game/demo/slot-spinning-for-gold",
+          "realUrl": "/service/game/play/slot-spinning-for-gold",
+          "representativeColor": "#d0ad6d",
+          "imgUrlPattern": "/api/content/gametiles/spinning-for-gold/scale-s%s/spinning-for-gold-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "stampede-html-desktop",
+          "title": "Stampede",
+          "gameSkin": "ecn_stampede",
+          "demoUrl": "/service/game/demo/stampede-html-desktop",
+          "realUrl": "/service/game/play/stampede-html-desktop",
+          "representativeColor": "#f58a16",
+          "imgUrlPattern": "/api/content/gametiles/stampede/scale-s%s/stampede-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "starburst-desktop",
+          "title": "Starburst",
+          "gameSkin": "net_starburst",
+          "demoUrl": "/service/game/demo/starburst-desktop",
+          "realUrl": "/service/game/play/starburst-desktop",
+          "representativeColor": "#1E102A",
+          "imgUrlPattern": "/api/content/gametiles/starburst/scale-s%s/starburst-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "sugar-train-html-desktop",
+          "title": "Sugar Train",
+          "gameSkin": "ecn_sugartrain",
+          "demoUrl": "/service/game/demo/sugar-train-html-desktop",
+          "realUrl": "/service/game/play/sugar-train-html-desktop",
+          "representativeColor": "#1f6c04",
+          "imgUrlPattern": "/api/content/gametiles/sugar-train/scale-s%s/sugar-train-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "super-monopoly-money-desktop",
+          "title": "Super MONOPOLY Money",
+          "gameSkin": "wms_monopolysupermoney",
+          "demoUrl": "/service/game/demo/super-monopoly-money-desktop",
+          "realUrl": "/service/game/play/super-monopoly-money-desktop",
+          "representativeColor": "#36AED6",
+          "imgUrlPattern": "/api/content/gametiles/super-monopoly-money/scale-s%s/super-monopoly-money-tile-r%s-w%s.png"
+        },
+        {
+          "name": "slot-take-me-out",
+          "title": "Take Me Out Date Night",
+          "gameSkin": "takemeout",
+          "demoUrl": "/service/game/demo/slot-take-me-out",
+          "realUrl": "/service/game/play/slot-take-me-out",
+          "representativeColor": "#080021",
+          "imgUrlPattern": "/api/content/gametiles/take-me-out-date-tonight/scale-s%s/take-me-out-date-tonight-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_Ted",
+          "title": "Ted",
+          "gameSkin": "BP_Ted",
+          "demoUrl": "/service/game/demo/BP_Ted",
+          "realUrl": "/service/game/play/BP_Ted",
+          "representativeColor": "#04011e",
+          "imgUrlPattern": "/api/content/gametiles/ted/scale-s%s/ted-tile-r%s-w%s.jpg"
+        },      
+        {
+          "name": "temple-of-ausar-html-desktop",
+          "title": "Temple of Ausar",
+          "gameSkin": "templeofausar",
+          "demoUrl": "/service/game/demo/temple-of-ausar-html-desktop",
+          "realUrl": "/service/game/play/temple-of-ausar-html-desktop",
+          "representativeColor": "#0b0f1b",
+          "imgUrlPattern": "/api/content/gametiles/temple-of-ausar/scale-s%s/temple-of-ausar-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-island",
+          "gameSkin": "TikiIsland",
+          "title": "Tiki Island",
+        "demoUrl": "/service/game/demo/slot-tiki-island",
+        "realUrl": "/service/game/play/slot-tiki-island",
+        "representativeColor": " #21a2f8",
+        "imgUrlPattern": "/api/content/gametiles/tiki-island/scale-s%s/tiki-island-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-island-jackpot",
+          "title": "Tiki Island Jackpot",
+          "gameSkin": "tikiislandprogressive",
+          "demoUrl": "/service/game/demo/slot-tiki-island-jackpot",
+          "realUrl": "/service/game/play/slot-tiki-island-jackpot",
+          "representativeColor": "#0084F5",
+          "progressiveBackgroundColor": "#0065ab",	      
+          "imgUrlPattern": "/api/content/gametiles/tiki-island-jackpot-logged-out/scale-s%s/tiki-island-jackpot-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-temple",
+          "title": "Tiki Temple",
+          "gameSkin": "tikitemple2_3",
+          "demoUrl": "/service/game/demo/slot-tiki-temple",
+          "realUrl": "/service/game/play/slot-tiki-temple",
+          "representativeColor": "#40A7A0",
+          "progressiveBackgroundColor": "#EA359E",
+          "imgUrlPattern": "/api/content/gametiles/tiki-temple/scale-s%s/tiki-temple-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-tiki-totems",
+          "title": "Tiki Totems",
+          "gameSkin": "tikitotems",
+          "demoUrl": "/service/game/demo/slot-tiki-totems",
+          "realUrl": "/service/game/play/slot-tiki-totems",
+          "representativeColor": "#17acff",
+          "imgUrlPattern": "/api/content/gametiles/tiki-totems/scale-s%s/tiki-totems-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_TopCat",
+          "title": "Top Cat",
+          "gameSkin": "BP_TopCat",
+          "demoUrl": "/service/game/demo/BP_TopCat",
+          "realUrl": "/service/game/play/BP_TopCat",
+          "representativeColor": "#0081B7",
+          "imgUrlPattern": "/api/content/gametiles/top-cat/scale-s%s/top-cat-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-triple-win-cafe",
+          "title": "Triple Win Cafe",
+          "gameSkin": "triplewincafe",
+          "demoUrl": "/service/game/demo/slot-triple-win-cafe",
+          "realUrl": "/service/game/play/slot-triple-win-cafe",
+          "representativeColor": "#91C6A8",
+          "imgUrlPattern": "/api/content/gametiles/triple-win-cafe/scale-s%s/triple-win-cafe-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-twilight-forest",
+          "gameSkin": "twilightforest",
+          "title": "Twilight Forest",
+          "demoUrl": "/service/game/demo/slot-twilight-forest",
+          "realUrl": "/service/game/play/slot-twilight-forest",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/twilight-forest/scale-s%s/twilight-forest-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "twin-spin-desktop",
+          "title": "Twin Spin",
+          "gameSkin": "net_twinspin",
+          "demoUrl": "/service/game/demo/twin-spin-desktop",
+          "realUrl": "/service/game/play/twin-spin-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/twin-spin/scale-s%s/twin-spin-tile-r%s-w%s.png"
+        },
+        {
+          "name": "unicorn-bliss-html-desktop",
+          "title": "Unicorn Bliss",
+          "gameSkin": "unicornbliss",
+          "demoUrl": "/service/game/demo/unicorn-bliss-html-desktop",
+          "realUrl": "/service/game/play/unicorn-bliss-html-desktop",
+          "representativeColor": "#29b4d5",
+          "imgUrlPattern": "/api/content/gametiles/unicorn-bliss/scale-s%s/unicorn-bliss-tile-r%s-w%s.jpg"
+        },      
+        {
+          "name": "slot-valley-of-the-kings",
+          "title": "Valley of the Kings",
+          "gameSkin": "valleyofthekings",
+          "demoUrl": "/service/game/demo/slot-valley-of-the-kings",
+          "realUrl": "/service/game/play/slot-valley-of-the-kings",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/valley-of-the-kings/scale-s%s/valley-of-the-kings-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "white-wizard-html-desktop",
+          "title": "White Wizard",
+          "gameSkin": "ecn_whitewizard",
+          "demoUrl": "/service/game/demo/white-wizard-html-desktop",
+          "realUrl": "/service/game/play/white-wizard-html-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/white-wizard/scale-s%s/white-wizard-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-winstones",
+          "title": "Winstones",
+          "gameSkin": "winstonesslot2",
+          "size":
+            {
+              "tall": true
+            },
+          "demoUrl": "/service/game/demo/slot-winstones",
+          "realUrl": "/service/game/play/slot-winstones",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/winstones/scale-s%s/winstones-tile-r%s-w%s.png"
+        },
+        {
+          "name": "BP_WildAntics",
+          "title": "Wild Antics",
+          "gameSkin": "BP_WildAntics",
+          "demoUrl": "/service/game/demo/BP_WildAntics",
+          "realUrl": "/service/game/play/BP_WildAntics",
+          "representativeColor": "#1B4832",
+          "imgUrlPattern": "/api/content/gametiles/wild-antics/scale-s%s/wild-antics-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "play-wings-of-paradise",
+          "gameSkin": "play-wings-of-paradise",
+          "title": "Wings of Paradise",
+          "demoUrl": "/service/game/demo/play-wings-of-paradise",
+          "realUrl": "/service/game/play/play-wings-of-paradise",
+          "representativeColor": "#281436",
+          "imgUrlPattern": "/api/content/gametiles/wings-of-paradise/scale-s%s/wings-of-paradise-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "BP_WishUponAJackpot",
+          "title": "Wish Upon a Jackpot",
+          "gameSkin": "BP_WishUponAJackpot",      
+          "demoUrl": "/service/game/demo/BP_WishUponAJackpot",
+          "realUrl": "/service/game/play/BP_WishUponAJackpot",
+          "representativeColor": "#220330",
+          "imgUrlPattern": "/api/content/gametiles/wish-upon-a-jackpot/scale-s%s/wish-upon-a-ajackpot-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "wizard-of-oz-ruby-slippers-desktop",
+          "title": "Wizard of Oz: Ruby Slippers",
+          "gameSkin": "wms_wozrubyslippers",
+          "demoUrl": "/service/game/demo/wizard-of-oz-ruby-slippers-desktop",
+          "realUrl": "/service/game/play/wizard-of-oz-ruby-slippers-desktop",
+          "representativeColor": "#4554a4",
+          "imgUrlPattern": "/api/content/gametiles/wizard-of-oz-ruby-slippers/scale-s%s/wizard-of-oz-rubby-slippers-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "wizard-of-oz-desktop",
+          "title": "Wizard of Oz",
+          "gameSkin": "wms_wizardofoz",
+          "demoUrl": "/service/game/demo/wizard-of-oz-desktop",
+          "realUrl": "/service/game/play/wizard-of-oz-desktop",
+          "representativeColor": "#00afe2",
+          "imgUrlPattern": "/api/content/gametiles/wizard-of-oz/scale-s%s/wizard-of-oz-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "wolf-cub-desktop",
+          "title": "Wolf Cub",
+          "gameSkin": "wolfcub",
+          "demoUrl": "/service/game/demo/wolf-cub-desktop",
+          "realUrl": "/service/game/play/wolf-cub-desktop",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/wolf-cub/scale-s%s/wolf-cub-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "wolf-run-desktop",
+          "title": "Wolf Run",
+          "gameSkin": "igt_wolf_run",
+          "demoUrl": "/service/game/demo/wolf-run-desktop",
+          "realUrl": "/service/game/play/wolf-run-desktop",
+          "representativeColor": "#140c3d",
+          "imgUrlPattern": "/api/content/gametiles/wolf-run/scale-s%s/wolf-run-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-wonderland",
+          "title": "Wonderland",
+          "gameSkin": "progressivealice",
+          "demoUrl": "/service/game/demo/slot-wonderland",
+          "realUrl": "/service/game/play/slot-wonderland",
+          "representativeColor": "#000041",
+          "progressiveBackgroundColor": "#21a5d9",
+          "imgUrlPattern": "/api/content/gametiles/wonderland-jackpot/scale-s%s/wonderland-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-wonders-of-the-deep",
+          "title": "Wonders of the Deep",
+          "gameSkin": "wondersofthedeep",
+          "demoUrl": "/service/game/demo/slot-wonders-of-the-deep",
+          "realUrl": "/service/game/play/slot-wonders-of-the-deep",
+          "representativeColor": "#053f9d",
+          "imgUrlPattern": "/api/content/gametiles/wonders-of-the-deep/scale-s%s/wonders-of-the-deep-tile-r%s-w%s.jpg"
+        },
+        {
+          "name": "slot-zen-garden",
+          "title": "Zen Garden",
+          "gameSkin": "zengarden",
+          "demoUrl": "/service/game/demo/slot-zen-garden",
+          "realUrl": "/service/game/play/slot-zen-garden",
+          "representativeColor": "#000000",
+          "imgUrlPattern": "/api/content/gametiles/zen-garden/scale-s%s/zen-garden-tile-r%s-w%s.jpg"
+        }
+      ]
+    }
+  ]
